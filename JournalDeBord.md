@@ -6,4 +6,4 @@ Budget alloué de 40€ par tête. Tableur pour les commandes (bientôt disponib
 
 Démarrage du brainstorming 
 
-#J'ai réussis a rejoindre le github.
+# J'ai réussis a rejoindre le github.
