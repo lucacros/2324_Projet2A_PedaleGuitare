@@ -5,3 +5,5 @@ Présentation des projets de 2ème année, explication des critères de notation
 Budget alloué de 40€ par tête. Tableur pour les commandes (bientôt disponible)
 
 Démarrage du brainstorming 
+
+#J'ai réussis a rejoindre le github.
