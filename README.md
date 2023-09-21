@@ -9,4 +9,8 @@ Projet de 2ème année à l'ENSEA, création d'une pédale de guitare. CROSETTO 
 
 Potentiels effets : 
 
+- Wawa
+- Processeur granulaire
+- Reverb
+- saturation
 
