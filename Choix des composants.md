@@ -15,8 +15,8 @@ Modélisation du systeme par blocs
 
 **Choix du microprocesseur**
   - **1. Classement par famille:**
-    - **STM32F4xx**: Les microcontrôleurs de la série STM32F4xx, tels que le STM32F407, sont puissants et polyvalents. Ils offrent une grande capacité de traitement et de mémoire, ce qui peut être utile pour implémenter des effets audio complexes
-    - **STM32F7xx**: , sont encore plus puissants que les STM32F4xx, ce qui peut être utile pour traiter des signaux audio de haute qualité ou d'ajouter des fonctionnalités avancées.
+    - **STM32F4xx**: sont puissants et polyvalents. Ils offrent une grande capacité de traitement et de mémoire, ce qui peut être utile pour implémenter des effets audio complexes
+    - **STM32F7xx**: sont encore plus puissants que les STM32F4xx, ce qui peut être utile pour traiter des signaux audio de haute qualité ou d'ajouter des fonctionnalités avancées.
 
   - La série la plus interessante est la série F7 , en voici **quelques exemples**:
     
