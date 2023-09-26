@@ -5,6 +5,12 @@ Modélisation du systeme par blocs
   
 # 2. CODEC
 
+- **Choix FINAL :**
+
+    - **STGL5000**
+
+    lien  :**https://www.nxp.com/products/audio-and-radio/audio-converters/ultra-low-power-audio-codec:SGTL5000**
+
 # 3. Microprocesseur
 
 **Choix du microprocesseur**
