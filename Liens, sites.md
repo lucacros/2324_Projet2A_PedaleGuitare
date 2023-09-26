@@ -11,3 +11,5 @@ Youtube du gars super fort : https://www.youtube.com/@PhilsLab
 
 Référence du codec : SGTL5000
  **datasheet** : https://www.nxp.com/docs/en/data-sheet/SGTL5000.pdf
+
+Site pour trouver des montages : sonelec-music
