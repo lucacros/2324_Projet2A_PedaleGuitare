@@ -1,7 +1,11 @@
 Modélisation du systeme par blocs
 
 # 1. AFE
-- Définition :
+- Définition : Analog Front End (AFE - Interface analogique en entrée) : 
+  - Préamplification
+  - Égalisation
+  - Atténuation du bruit
+  - Protection
   
 # 2. CODEC
 
@@ -29,3 +33,8 @@ Modélisation du systeme par blocs
     lien du composant sur farnell :**https://fr.farnell.com/stmicroelectronics/stm32f769bit6/mcu-32-bits-cortex-m7-216mhz-lqfp/dp/2535501?MER=sy-me-pd-mi-acce**
 
 # ARE
+- Définition : Analog Rear End (AFE - Interface analogique en sortie) : 
+  - CNA
+  - Atténuation du niveau
+  - Égalisation finale
+  - Sortie Casque/Jack/etc...
