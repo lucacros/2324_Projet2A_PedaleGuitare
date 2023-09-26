@@ -1,4 +1,4 @@
-# Modélisation du systeme par blocs
+Modélisation du systeme par blocs
 
 # AFE
 
@@ -6,7 +6,7 @@
 
 # Microprocesseur
 
-Choix du microprocesseur
+_Choix du microprocesseur_
 - STM32F4xx: Les microcontrôleurs de la série STM32F4xx, tels que le STM32F407, sont puissants et polyvalents. Ils offrent une grande capacité de traitement et de mémoire, ce qui peut être utile si vous envisagez d'implémenter des effets audio complexes.
 - STM32F3xx: Les microcontrôleurs de la série STM32F3xx, comme le STM32F303, sont plus abordables et conviennent bien aux projets de taille moyenne. Ils offrent également des fonctionnalités audio intégrées qui peuvent simplifier la gestion des signaux audio.
 - STM32F7xx: Les microcontrôleurs de la série STM32F7xx, comme le STM32F746, sont encore plus puissants que les STM32F4xx, ce qui peut être utile si vous avez besoin de traiter des signaux audio de haute qualité ou d'ajouter des fonctionnalités avancées.
