@@ -1,6 +1,6 @@
-/Pédalé octaver :
+/ Pédalé octaver :
 
-///Def
+/// Def
 C'est une pédale qui permet d'augmenter ou de diminuer d'une ou plusiuers octaves la note joué.
 
 /// Fonctionnement :
