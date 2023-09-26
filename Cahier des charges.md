@@ -1,16 +1,18 @@
 # Cahier des charges
 
-## Mission principale :
-Faire une pédale avec au moins deux effets qui fonctionne.
+## Objectif :
+Créer une pédale de guitare multi-effets.
 
 ### Types d'effets
 - Effet granulaires
 - tremolo
 - delay
 - octaver
+### Spécifications Opérationnelles
 
-### Spécification ( regarder schéma Draw.io)
 
-- utilisation d'un microproceseur (STM32F4 ou STM32F769).
+### Spécifications Techniques
+
+- Utilisation d'un microproceseur (STM32F4 ou STM32F769).
 - utilisation d'un codec audio (début sans le codec car trop complex).
 - Module de préamplification pour adapter le signal au codec.
