@@ -1,6 +1,6 @@
 # Cahier des charges
 
-##Mission principale :
+## Mission principale :
 Faire une pédale avec au moins deux effets qui fonctionne.
 
 ### Types d'effets
