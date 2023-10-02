@@ -16,3 +16,4 @@ Créer une pédale de guitare multi-effets.
 - Utilisation d'un microproceseur (STM32F4 ou STM32F769).
 - utilisation d'un codec audio (début sans le codec car trop complex).
 - Module de préamplification pour adapter le signal au codec.
+- Conception de la partie extérieur (ou adaptation d'une pédale déjà existante).
