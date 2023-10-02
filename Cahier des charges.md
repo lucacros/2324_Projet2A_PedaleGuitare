@@ -13,6 +13,7 @@ Créer une pédale de guitare multi-effets.
 
 ### Spécifications Techniques
 
+- Conception d'un PCB comprenant la partie de préamplification ainsi que le processeur et tousles boutons de réglages.
 - Utilisation d'un microproceseur (STM32F4 ou STM32F769).
 - utilisation d'un codec audio (début sans le codec car trop complex).
 - Module de préamplification pour adapter le signal au codec.
