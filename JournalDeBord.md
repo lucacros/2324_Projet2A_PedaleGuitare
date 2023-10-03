@@ -33,3 +33,8 @@ Etapes à suivre pour la fabrication :
 - Faire le PCB sous Kikad
 
 - Coder l'effet sous CubeIDE
+
+
+03/10 
+
+test de la synchronisation VSC avec github
