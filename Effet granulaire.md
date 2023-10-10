@@ -22,3 +22,11 @@ Le potard feedback détermine la quantité de signal granulaire qui est renvoyé
 - Reverb
 
 en augmentant la reverb, on crée une ambiance spatiale plus grande autour du son granulaire, donnant l'impression que le son se propage dans un espace plus grand 
+
+
+**_dafx-digital-audio-effects-2nd-edition.pdf (page 211)**_
+Le physicien Dennis Gabor a proposé en 1947 l'idée du quantum du son, une unité indivisible d'information du point de vue psychoacoustique.
+
+Selon sa théorie, une représentation granulaire pourrait décrire n'importe quel son. La synthèse granulaire a été initialement suggérée comme une technique de musique informatique pour produire des sons complexes par Iannis Xenakis (1971) et Curtis Roads (1978).
+
+Cette technique construit des événements acoustiques à partir de milliers de grains sonores. Un grain sonore dure un bref instant (typiquement de 1 à 100 ms).
