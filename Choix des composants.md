@@ -1,6 +1,6 @@
 # List of Components related to blocks
 
-### 📖 Table of contents
+## 📖 Table of contents
 
 - [1. AFE](#1-afe)
 - [2. CODEC](#2-codec)
