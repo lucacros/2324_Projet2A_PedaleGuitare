@@ -2,12 +2,11 @@
 
 ### 📖 Table of contents
 
-- [1. AFE](#-1.-afe)
-- [2. CODEC](#-2.-CODEC)
-- [3. MICROPROCESSOR](#-hardware-specifications)
-- [4. ARE](#-software-specifications)
-- [🚀 Contributions](#-contributions)
-- [📜 Licence](#-licence)
+- [1. AFE](#-afe)
+- [2. CODEC](#-CODEC)
+- [3. MICROPROCESSOR](#-microprocessor)
+- [4. ARE](#-are)
+
 # 1. AFE
 - Définition : Analog Front End (AFE - Interface analogique en entrée) : 
   - Préamplification
@@ -23,7 +22,7 @@
 
     lien  :**https://www.nxp.com/products/audio-and-radio/audio-converters/ultra-low-power-audio-codec:SGTL5000**
 
-# 3. Microprocesseur
+# 3. Microprocessor
 
 **Choix du microprocesseur**
   - **1. Classement par famille:**
