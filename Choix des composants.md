@@ -1,5 +1,13 @@
-Modélisation du systeme par blocs
+# List of Components related to blocks
 
+### 📖 Table of contents
+
+- [1. AFE](#-1.-afe)
+- [2. CODEC](#-2.-CODEC)
+- [3. MICROPROCESSOR](#-hardware-specifications)
+- [4. ARE](#-software-specifications)
+- [🚀 Contributions](#-contributions)
+- [📜 Licence](#-licence)
 # 1. AFE
 - Définition : Analog Front End (AFE - Interface analogique en entrée) : 
   - Préamplification
