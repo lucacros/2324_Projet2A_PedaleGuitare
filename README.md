@@ -37,6 +37,7 @@ For more details to each components go directly in : [Hardware Specifications](#
 
 ## 🔧 Project structure
 To better organise our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS and PBS charts.
+ <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/documents/wbspbsobs.drawio.png" alt="drawing" width="1000" />
 
 
 - WBS = Work Breakdown Structure : hierarchical structures that break down complex operations into more manageable components
@@ -51,7 +52,7 @@ Expliquer la structure de dossiers et fichiers du projet.
 
 ### Bloc Diagram
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="drawing" width="600" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="drawing" width="500" />
 </p>
 
 
