@@ -25,13 +25,15 @@ Pour cela, la pédale de guitare disposera
 - ...
 
 ### 🛠️ Interface Utilisateur Intuitive
+Notre pédale est conçue pour une utilisation conviviale, avec une interface facile à comprendre et à utiliser pour accéder à différents effets et réglages.
+
 (a voir )
 
 ### 💡 List of components
 
+https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Choix%20des%20composants.md
 
-
-Notre pédale est conçue pour une utilisation conviviale, avec une interface facile à comprendre et à utiliser pour accéder à différents effets et réglages.
+For more details to each components go directly in : 
 
 ## 🔧 Project structure
 
