@@ -4,7 +4,7 @@
 
 Hello music and technology fans! Welcome to the GitHub showcase for our multi-effects guitar pedal project. Here you'll find details, tools and resources related to this exciting project.This is an academic project completed in 100 hours by the legendary trio: Lucas CROSETTO , Jolan THOMASSET and Camille LANFREDI
 
-## 📖 Table des matières
+## 📖 Table of contents
 
 - [📌 Presentation](#-présentation)
 - [🔧 Project structure](#-project-structure)
