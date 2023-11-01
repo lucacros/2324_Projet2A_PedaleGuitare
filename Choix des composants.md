@@ -2,10 +2,11 @@
 
 ### 📖 Table of contents
 
-- [1. AFE](#-afe)
-- [2. CODEC](#-CODEC)
-- [3. MICROPROCESSOR](#-3.microprocessor)
-- [4. ARE](#-are)
+- [1. AFE](#1-afe)
+- [2. CODEC](#2-codec)
+- [3. Microprocessor](#3-microprocessor)
+- [4. ARE](#4-are)
+
 
 # 1. AFE
 - Définition : Analog Front End (AFE - Interface analogique en entrée) : 
@@ -39,7 +40,7 @@
     - **STM32F769BIT6**
     lien du composant sur farnell :**https://fr.farnell.com/stmicroelectronics/stm32f769bit6/mcu-32-bits-cortex-m7-216mhz-lqfp/dp/2535501?MER=sy-me-pd-mi-acce**
 
-# ARE
+# 4. ARE
 - Définition : Analog Rear End (AFE - Interface analogique en sortie) : 
   - CNA
   - Atténuation du niveau
