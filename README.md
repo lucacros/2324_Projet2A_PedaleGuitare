@@ -36,7 +36,12 @@ https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Choix
 For more details to each components go directly in : 
 
 ## 🔧 Project structure
+To better organise our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS and PBS charts.
 
+
+- WBS = Work Breakdown Structure : hierarchical structures that break down complex operations into more manageable components
+- PBS = Project Breakdown Structure : product organisation chart: deliverables, breakdown, intermediate outputs
+- OBS = Organization Breakdown Structre : How tasks are organised. The skills, responsibilities, relationships, etc. Individualisation of tasks
 ### 📁 Directory structure
 
 Expliquer la structure de dossiers et fichiers du projet.
@@ -44,6 +49,8 @@ Expliquer la structure de dossiers et fichiers du projet.
 
 ## 🛠️ Hardware Specifications
 
+### Bloc Diagram
+https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png
 ## 💻 Software Specifications
 
 ### 🛠 Installation
