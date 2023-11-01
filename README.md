@@ -50,6 +50,8 @@ Expliquer la structure de dossiers et fichiers du projet.
 ## 🛠️ Hardware Specifications
 
 ### Bloc Diagram
+git add Modélisation du système.png
+<img src=”[Modélisation du système.png](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png)">
 https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png
 ## 💻 Software Specifications
 
