@@ -33,7 +33,7 @@ Notre pédale est conçue pour une utilisation conviviale, avec une interface fa
 
 https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Choix%20des%20composants.md
 
-For more details to each components go directly in : [Aller à la section Hardware Specifications](#hardware-specifications)
+For more details to each components go directly in : [Hardware Specifications](#hardware-specifications)
 
 ## 🔧 Project structure
 To better organise our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS and PBS charts.
@@ -48,7 +48,7 @@ Expliquer la structure de dossiers et fichiers du projet.
 
 
 ## 🛠️ Hardware Specifications
-
+<a name="hardware-specifications"></a> <!-- Ancre ajoutée -->
 ### Bloc Diagram
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="drawing" width="600" />
@@ -56,7 +56,7 @@ Expliquer la structure de dossiers et fichiers du projet.
 
 
 
-<a name="hardware-specifications"></a> <!-- Ancre ajoutée -->
+
 
 ## 💻 Software Specifications
 
