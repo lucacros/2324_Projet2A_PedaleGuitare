@@ -4,7 +4,7 @@
 
 - [1. AFE](#-afe)
 - [2. CODEC](#-CODEC)
-- [3. MICROPROCESSOR](#-microprocessor)
+- [3. MICROPROCESSOR](#-3.microprocessor)
 - [4. ARE](#-are)
 
 # 1. AFE
