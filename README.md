@@ -8,7 +8,7 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Presentation](#-présentation)
 - [🔧 Project structure](#-project-structure)
-- [🛠️ Hardware Specifications](#%-hardware-specifications)
+- [🛠️ Hardware Specifications](#-hardware-specifications)
 - [💻 Software specifications](#-software-specifications)
 - [🚀 Contributions](#-contributions)
 - [📜 Licence](#-licence)
