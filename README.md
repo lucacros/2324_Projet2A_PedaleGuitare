@@ -46,9 +46,9 @@ To better organise our project, we have drawn up a task breakdown with each asso
 
 Expliquer la structure de dossiers et fichiers du projet.
 
-
-## 🛠️ Hardware Specifications
 <a name="hardware-specifications"></a> <!-- Ancre ajoutée -->
+## 🛠️ Hardware Specifications
+
 ### Bloc Diagram
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="drawing" width="600" />
