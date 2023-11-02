@@ -35,11 +35,13 @@ Explain the project's directory and file structure.
 
 ### 🛠️ Hardware Section
 
-
+In this section you will find everything relating to the hardware part of the project. Whether it's the hardware, the electrical diagrams and routing, how they work and the types of initialisation and interconnection.
 
 [Link to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 
 ### 💻 Software Section
+
+In this second part you will find everything that concerns the software part of the project. You'll find all the detailed audio effects programs and how they work.
 
 [Link to Software Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Software-Section)
 
