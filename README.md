@@ -5,8 +5,7 @@ Enjoy your reading ! (Camille L)💡
 ## 📖 Table of contents
 - [🔧 List of components](#-list-of-components)
 - [🛠️ Hardware Specifications](#-hardware-specifications)
-- [💻 Software Specifications](#-software-specifications)
-- [🛠 Installation](#-installation)
+- [💻 Installation](#-installation)
 
 ## 🔧List of components
 
