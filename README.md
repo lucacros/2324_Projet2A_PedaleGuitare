@@ -26,7 +26,7 @@ For more details to each components go directly in : [Hardware Specifications](#
 
 
 
-## 🛠 Installation
+## 💻 Installation
 
 I recommend  you to first download the latest version of **KiCad** to be able to reproduce the electronic board. Simulation software to size the amplifiers, for example: **Cadence Pspice** or **Microcap** ... And **CUBEIDE** software for programming the codec and microprocessor.
 
