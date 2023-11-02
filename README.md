@@ -31,7 +31,7 @@ Notre pédale est conçue pour une utilisation conviviale, avec une interface fa
 
 ### 💡 List of components
 
-https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Choix%20des%20composants.md
+https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md
 
 For more details to each components go directly in : [Hardware Specifications](#hardware-specifications)
 
