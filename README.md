@@ -31,5 +31,8 @@ For more details to each components go directly in : [Hardware Specifications](#
 
 I recommend  you to first download the latest version of **KiCad** to be able to reproduce the electronic board. Simulation software to size the amplifiers, for example: **Cadence Pspice** or **Microcap** ... And **CUBEIDE** software for programming the codec and microprocessor.
 
+**Pspice** : https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html
 
+**KiCad** : https://www.kicad.org/
 
+**STCUBEIDE** : https://www.st.com/en/development-tools/stm32cubeide.html
