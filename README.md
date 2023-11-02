@@ -1,62 +1,26 @@
-# Hi everyone 🖐️ & Welcome to our project: Multi-Effects Guitar Pedal 🎸🎛️
-
-Hello music and technology fans! Welcome to the GitHub showcase for our multi-effects guitar pedal project. Here you'll find details, tools, and resources related to this exciting project. This is an academic project completed in 100 hours by the legendary trio: Luca CROSETTO, Jolan THOMASSET, and Camille LANFREDI
+# Here you are in the 🛠️ Hardware Section
+You will find all specifications and things to re-create it.
+Enjoy your reading ! (Camille L)💡
 
 ## 📖 Table of contents
+- [🔧 List of components](#-list-of-components)
+- [🛠️ Hardware Specifications](#-hardware-specifications)
+- [💻 Installation](#-installation)
 
-- [📌 Présentation](#-présentation)
-- [🔧 Project structure](#-project-structure)
-- [🛠️ Hardware Section](#-hardware-section)
-- [💻 Software Section](#-software-section)
-- [🚀 Contributions](#-contributions)
-- [📜 Licence](#-licence)
+## 🔧 List of components
+- [Link to List of Components](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md)
 
-## 📌 Présentation
+For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
-Notre projet de pédale de guitare multi-effets vise à offrir une plateforme polyvalente pour les guitaristes, en regroupant une variété d'effets sonores et d'outils de traitement audio dans un seul dispositif. Pour cela, la pédale de guitare disposera...
-
-(Le contenu de la section Présentation)
-
-## 🔧 Project structure
-
-To better organize our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS, and PBS charts.
-
- <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/documents/wbspbsobs.drawio.png" alt="WBS/OBS/PBS" width="1000" />
-
-- WBS = Work Breakdown Structure: hierarchical structures that break down complex operations into more manageable components
-- PBS = Project Breakdown Structure: product organization chart: deliverables, breakdown, intermediate outputs
-- OBS = Organization Breakdown Structure: How tasks are organized. The skills, responsibilities, relationships, etc. Individualization of tasks
-
-### 📁 Directory structure
-
-Explain the project's directory and file structure.
-
-## 🛠️ Hardware Section
-
-### Bloc Diagram
+## 🛠️ Hardware Specifications
+### Block Diagram
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="Block Diagram" width="500" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="Block Diagram" width="500" />
 </p>
 
-[Link to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
+## 💻 Installation
+I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
-## 💻 Software Section
-
-### 🛠 Installation
-
-Include instructions to clone and run the project locally.
-
-## 🚀 Contributions
-
-We would like to thank each person who helped us and provided support and information, such as:
-- M. Nicolas PAPAZOGLOU
-- M. Laurent FIACK
-- M. Frédéric GERALDO
-- but most importantly: M. Camille LANFREDI, who is the best team mate on Earth.
-
-## 📜 Licence
-
-The project is under the [SI TU VOLES T'ES MORT] license. Refer to the `LICENSE` file for more details.
-
----
-Feel free to star this project (⭐) if you find it interesting!
+- **Pspice**: [Download Pspice](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html)
+- **KiCad**: [Download KiCad](https://www.kicad.org/)
+- **STCUBEIDE**: [Download STCUBEIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
