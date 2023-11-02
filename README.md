@@ -41,6 +41,7 @@ Explain the project's directory and file structure.
 
 ### 💻 Software Section
 
+[Link to Software Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Software-Section)
 
 ## 🚀 Contributions
 
