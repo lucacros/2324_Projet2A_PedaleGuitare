@@ -15,7 +15,7 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 ## 🛠️ Hardware Specifications
 ### Block Diagram
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="Block Diagram" width="500" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Block_modelling_system.png" alt="Block Diagram" width="500" />
 </p>
 
 ## 💻 Installation
