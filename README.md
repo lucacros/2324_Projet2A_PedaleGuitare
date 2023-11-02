@@ -1,5 +1,5 @@
 # Here you are in the 🛠️ Hardware Section
-You will find all specifications and things to re-create it.
+You will find all specifications and things to understand it.
 Enjoy your reading ! (Camille L)💡
 
 ## 📖 Table of contents
