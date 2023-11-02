@@ -8,8 +8,8 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Presentation](#-présentation)
 - [🔧 Project structure](#-project-structure)
-- [🛠️ Hardware Specifications](#-hardware-specifications)
-- [💻 Software Specifications](#-software-specifications)
+- [🛠️ Hardware Section](#-hardware-section)
+- [💻 Software Section](#-software-section)
 - [🚀 Contributions](#-contributions)
 - [📜 Licence](#-licence)
 
@@ -29,11 +29,6 @@ Notre pédale est conçue pour une utilisation conviviale, avec une interface fa
 
 (a voir )
 
-### 💡 List of components
-
-https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md
-
-For more details to each components go directly in : [Hardware Specifications](#hardware-specifications)
 
 ## 🔧 Project structure
 To better organise our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS and PBS charts.
@@ -48,18 +43,18 @@ To better organise our project, we have drawn up a task breakdown with each asso
 Expliquer la structure de dossiers et fichiers du projet.
 
 <a name="hardware-specifications"></a> <!-- Ancre ajoutée -->
-## 🛠️ Hardware Specifications
+## 🛠️ Hardware Section
 
 ### Bloc Diagram
 <p align="center">
   <img https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/Mod%C3%A9lisation%20du%20syst%C3%A8me.pngsrc="" alt="drawing" width="500" />
 </p>
+-[Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 
 
 
 
-
-## 💻 Software Specifications
+## 💻 Software Section
 
 ### 🛠 Installation
 
