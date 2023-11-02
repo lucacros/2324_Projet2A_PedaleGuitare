@@ -14,9 +14,16 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 ## 📌 Présentation
 
-Notre projet de pédale de guitare multi-effets vise à offrir une plateforme polyvalente pour les guitaristes, en regroupant une variété d'effets sonores et d'outils de traitement audio dans un seul dispositif. Pour cela, la pédale de guitare disposera...
+Our multi-effects guitar pedal project aims to provide a versatile platform for guitarists, bringing together a variety of sound effects and audio processing tools in a single device. To achieve this, the guitar pedal will feature...
 
 (Le contenu de la section Présentation)
+### 🎶 E-Sound effects
+
+- Effet 1 : Description brève
+- Effet 2 : Description brève
+- ...
+### 💡 Key features
+
 
 ## 🔧 Project structure
 The project is divided into 2 parts: the first is analog, with the creation of the system's electronic board, and the second is the creation of the various digital audio effects.
