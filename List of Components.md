@@ -1,4 +1,4 @@
-# List of Components related to the block schematic system
+# List of Components related to the block system
 [Return to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 ## 📖 Table of contents
 
