@@ -52,7 +52,7 @@ Expliquer la structure de dossiers et fichiers du projet.
 
 ### Bloc Diagram
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="drawing" width="500" />
+  <img https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/Mod%C3%A9lisation%20du%20syst%C3%A8me.pngsrc="" alt="drawing" width="500" />
 </p>
 
 
