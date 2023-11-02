@@ -1,5 +1,5 @@
 # List of Components related to blocks
-
+[Return to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 ## 📖 Table of contents
 
 - [1. AFE](#1-afe)
