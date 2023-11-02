@@ -7,31 +7,20 @@ Enjoy your reading ! (Camille L)💡
 - [🛠️ Hardware Specifications](#-hardware-specifications)
 - [💻 Installation](#-installation)
 
-## 🔧List of components
+## 🔧 List of components
+- [Link to List of Components](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md)
 
-(https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md)
+For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
-For more details to each components go directly in : [Hardware Specifications](#hardware-specifications)
-
-<a name="hardware-specifications"></a> <!-- Ancre ajoutée -->
 ## 🛠️ Hardware Specifications
-
-### Bloc Diagram
+### Block Diagram
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="drawing" width="500" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Brainstorming/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="Block Diagram" width="500" />
 </p>
 
-
-
-
-
-
 ## 💻 Installation
+I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
-I recommend  you to first download the latest version of **KiCad** to be able to reproduce the electronic board. Simulation software to size the amplifiers, for example: **Cadence Pspice** or **Microcap** ... And **CUBEIDE** software for programming the codec and microprocessor.
-
-**Pspice** : https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html
-
-**KiCad** : https://www.kicad.org/
-
-**STCUBEIDE** : https://www.st.com/en/development-tools/stm32cubeide.html
+- **Pspice**: [Download Pspice](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html)
+- **KiCad**: [Download KiCad](https://www.kicad.org/)
+- **STCUBEIDE**: [Download STCUBEIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
