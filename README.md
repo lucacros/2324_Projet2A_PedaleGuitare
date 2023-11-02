@@ -19,7 +19,7 @@ Notre projet de pédale de guitare multi-effets vise à offrir une plateforme po
 (Le contenu de la section Présentation)
 
 ## 🔧 Project structure
-The project is divided into 2 parts: the first is analogue, with the creation of the system's electronic board, and the second is the creation of the various digital audio effects.
+The project is divided into 2 parts: the first is analog, with the creation of the system's electronic board, and the second is the creation of the various digital audio effects.
 
 To better organize our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS, and PBS charts.
 
