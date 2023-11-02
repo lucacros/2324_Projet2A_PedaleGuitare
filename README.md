@@ -1,4 +1,4 @@
-# Here you are in the 🛠️ Hardware Sector
+# Here you are in the 🛠️ Hardware Section
 You will find all specifications and things to re-create it.
 Enjoy your reading ! (Camille L)💡
 
