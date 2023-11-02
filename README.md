@@ -6,6 +6,7 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Présentation](#-présentation)
 - [🔧 Project structure](#-project-structure)
+- [📁 Directory structure](#-directory-structure)
 - [🛠️ Hardware Section](#-hardware-section)
 - [💻 Software Section](#-software-section)
 - [🚀 Contributions](#-contributions)
@@ -27,24 +28,18 @@ To better organize our project, we have drawn up a task breakdown with each asso
 - PBS = Project Breakdown Structure: product organization chart: deliverables, breakdown, intermediate outputs
 - OBS = Organization Breakdown Structure: How tasks are organized. The skills, responsibilities, relationships, etc. Individualization of tasks
 
-### 📁 Directory structure
+## 📁 Directory structure
 
 Explain the project's directory and file structure.
 
-## 🛠️ Hardware Section
+### 🛠️ Hardware Section
 
-### Bloc Diagram
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/Mod%C3%A9lisation%20du%20syst%C3%A8me.png" alt="Block Diagram" width="500" />
-</p>
+
 
 [Link to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 
-## 💻 Software Section
+### 💻 Software Section
 
-### 🛠 Installation
-
-Include instructions to clone and run the project locally.
 
 ## 🚀 Contributions
 
