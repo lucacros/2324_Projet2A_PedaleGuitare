@@ -42,7 +42,7 @@ To better organise our project, we have drawn up a task breakdown with each asso
 
 Expliquer la structure de dossiers et fichiers du projet.
 
-<a name="hardware-specifications"></a> <!-- Ancre ajoutée -->
+
 ## 🛠️ Hardware Section
 
 ### Bloc Diagram
