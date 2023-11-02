@@ -16,11 +16,12 @@
   - Protection
   
   We use a non-inverting AOP circuit composed of :
-    - Resistor of
-    - Resistor of 
+    - Resistor of [E12 Series] 
+    - Resistor of [E12 Series] 
     - Capacitor of
     - Capacitor of 
     - AOP : **LM324-N** ( https://www.ti.com/product/LM324-N/part-details/LM324M/NOPB )
+  
 # 2. CODEC
 
    **STGL5000**
