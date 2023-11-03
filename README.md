@@ -20,15 +20,22 @@ Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
 
 ## 🛠 Musical Effects
 
-Explaining how we built our effects, understanding the physics of the signal modulation, modification.
+Explaining how we built our effects, understanding physics of signal modulations, modifications.
 
 ### 🎶 Reverberation
 
-What do we want from a Reverb ? 
+**What do we want from a Reverb ?** 
 
 An effect which creates a sense of space, by generating a diffuse longer-lasting sound from a short-input.
 
-We search to create for the input signal : 
+“Reverberation is composed of reflections which are delayed and attenuated copies of the direct sound. The frequency content of each reflection is also modified due to the directivity of the sound source and due to the material absorption of reflecting surfaces.” (dafx/Basics of room acoustics/page 164)
+
+“the most faithful reverberation method would be to convolve the input signal with such a response” (dafx/Convolution with room impulse responses/164)
+
+Also, simulating the long-term effects of sound propagation in enclosures is the most important work in the field of artificial reverberation. 
+
+
+→ We search to create for the input signal : 
 - a Convolution
 - a Feedback delay Network
 
