@@ -24,6 +24,14 @@ Explaining how we built our effects, understanding the physics of the signal mod
 
 ### 🎶 Reverberation
 
+What do we want from a Reverb ? 
+
+An effect which creates a sense of space, by generating a diffuse longer-lasting sound from a short-input.
+
+We search to create for the input signal : 
+- a Convolution
+- a Feedback delay Network
+
 
 ### 🎛️ Granular Delay
 
@@ -31,10 +39,20 @@ Explaining how we built our effects, understanding the physics of the signal mod
 ## 🔧 Which IDE ?
 
 After trying to code an IN/OUT audio in C++ with the library "portaudio", I was pushed on the Audio IDE way by my professor... 
+Create or reuse the effects already existing ? We will see
 
 ### FAUST
 
 All the sources provide from https://faust.grame.fr/
+
+**What is Faust?**
+
+“Faust (Functional Audio Stream) is a functional programming language for sound synthesis and audio processing with a strong focus on the design of synthesizers, musical instruments, audio effects, etc. created at the GRAME-CNCM Research Department.”
+
+This online IDE allows me to explore and implement some musical effects that will match with our project. 
+
+
+
 
 ### JUCE 
 
