@@ -5,6 +5,12 @@ Enjoy your reading ! (Camille L)💡
 ## 📖 Table of contents
 - [🔧 List of components](#-list-of-components)
 - [🛠️ Hardware Specifications](#-hardware-specifications)
+    - [Block Diagram](#-Block-Diagram)
+    - [Power Board](#-power-board)
+    - A.F.E : Preamplifier Design
+    - Audio Codec Configuration
+    - MicroProcessor Configuration (with extern memory : RAM )
+    - A.R.E : Amplifier
 - [💻 Installation](#-installation)
 
 ## 🔧 List of components
