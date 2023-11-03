@@ -19,8 +19,8 @@ Our multi-effects guitar pedal project aims to provide a versatile platform for 
 (Le contenu de la section Présentation)
 ### 🎶 E-Sound effects
 
-- Effet 1 : **Reverberation** "An effect which creates a sense of space, by generating a diffuse longer-lasting sound from a short-input."
-- Effet 2 : Description brève
+- Effect 1 : **Reverberation** "An effect which creates a sense of space, by generating a diffuse longer-lasting sound from a short-input."
+- Effect 2 : Description brève
 - ...
 ### 💡 Key features
 
