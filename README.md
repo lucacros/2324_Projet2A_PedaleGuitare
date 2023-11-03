@@ -5,13 +5,14 @@ Enjoy your reading ! (Camille L)💡
 ## 📖 Table of contents
 - [🔧 List of components](#-list-of-components)
 - [🛠️ Hardware Specifications](#-hardware-specifications)
-    - [Block Diagram](#-Block-Diagram)
+    - [Block Diagram](#-block-diagram)
     - [Power Board](#-power-board)
-    - A.F.E : Preamplifier Design
-    - Audio Codec Configuration
-    - MicroProcessor Configuration (with extern memory : RAM )
-    - A.R.E : Amplifier
+    - [A.F.E : Preamplifier Design](#-afe--preamplifier-design)
+    - [Audio Codec Configuration](#audio-codec-configuration)
+    - [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
+    - [A.R.E : Amplifier](#-are--amplifier)
 - [💻 Installation](#-installation)
+
 
 ## 🔧 List of components
 - [Link to List of Components](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md)
