@@ -20,6 +20,16 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 A.F.E = Analog Front End : Preamplifier-Egaliser-Noise attenuation
 
 A.R.E = Analog Rear End : DAC-Noise attenuation-Egaliser
+### Power Board
+
+###  A.F.E : Preamplifier Design
+
+### Audio Codec Configuration
+
+### MicroProcessor Configuration (with extern memory : RAM )
+
+### A.R.E : Amplifier
+
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
