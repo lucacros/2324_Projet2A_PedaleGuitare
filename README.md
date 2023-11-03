@@ -37,7 +37,7 @@ Also, simulating the long-term effects of sound propagation in enclosures is the
 
 → We search to create for the input signal : 
 - a Convolution
-- a Feedback delay Network
+- a Feedback delay loop (delay lines interconnected in a feedback loop by means of a matrix)
 
 
 ### 🎛️ Granular Delay
