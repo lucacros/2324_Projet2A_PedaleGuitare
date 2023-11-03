@@ -8,10 +8,11 @@ Enjoy your reading ! (Camille L)💡
     - [Block Diagram](#-block-diagram)
     - [🔋 Power Board](#-power-board)
     - [🎤 A.F.E : Preamplifier Design](#-afe--preamplifier-design)
-    - [🎧 Audio Codec Configuration](#audio-codec-configuration)
-    - [💾 MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
+    - [🎧 Audio Codec Configuration](#-audio-codec-configuration)
+    - [💾 MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
     - [🎤 A.R.E : Amplifier](#-are--amplifier)
 - [💻 Installation](#-installation)
+
 
 
 ## 🔧 List of components
