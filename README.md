@@ -21,8 +21,14 @@ A.F.E = Analog Front End : Preamplifier-Egaliser-Noise attenuation
 
 A.R.E = Analog Rear End : DAC-Noise attenuation-Egaliser
 ### Power Board
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Power%20Board%20Schematic.png" alt="Power Board" width="400" />
+</p>
 
 ###  A.F.E : Preamplifier Design
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Preampli.png" alt="Preamplifier" width="400" />
+</p>
 
 ### Audio Codec Configuration
 
