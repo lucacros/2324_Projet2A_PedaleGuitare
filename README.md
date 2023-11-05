@@ -6,7 +6,7 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Présentation](#-présentation)
 - [🔧 Project structure](#-project-structure)
-- [📁 Directory structure](#-directory-structure)
+- [📁 Branches structure](#-branches-structure)
   - 🛠️ Hardware Section
   - 💻 Software Section
 - [🚀 Contributions](#-contributions)
@@ -36,7 +36,7 @@ To better organize our project, we have drawn up a task breakdown with each asso
 - PBS = Project Breakdown Structure: product organization chart: deliverables, breakdown, intermediate outputs
 - OBS = Organization Breakdown Structure: How tasks are organized. The skills, responsibilities, relationships, etc. Individualization of tasks
 
-## 📁 Directory structure
+## 📁 Branches structure
 
 Explain the project's directory and file structure.
 
