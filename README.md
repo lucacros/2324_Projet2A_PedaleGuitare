@@ -21,24 +21,24 @@ Enjoy your reading ! (Camille L)💡
 For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
 ## 🛠️ Hardware Specifications
-### Block Diagram
+## Block Diagram
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png" alt="Block Diagram" width="600" />
 </p>
 A.F.E = Analog Front End : Preamplifier-Egaliser-Noise attenuation
 
 A.R.E = Analog Rear End : DAC-Noise attenuation-Egaliser
-### Power Board
+## Power Board
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Power%20Board%20Schematic.png" alt="Power Board" width="400" />
 </p>
 
-###  A.F.E : Preamplifier Design
+##  A.F.E : Preamplifier Design
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Preampli.png" alt="Preamplifier" width="400" />
 </p>
 
-### Audio Codec Configuration
+## Audio Codec Configuration
 **1. From the SGTL5000 codec to the STM32F446ZCT6 microcontroller via I2S :**
 
  I2S signals include:
@@ -59,7 +59,7 @@ Connection from codec to microcontroller :
 Codec analogue audio outputs: LINEOUT_L and LINEOUT_R pins
 
 
-### MicroProcessor Configuration (with extern memory : RAM )
+## MicroProcessor Configuration (with extern memory : RAM )
 
 **From the STM32F446ZCT6 microcontroller to the SGTL5000 codec via I2S for the return of the processed signal:** 
 
@@ -69,7 +69,7 @@ To return the processed audio signal from the microcontroller to the codec, the 
 - I2S_SD from the STM to the I2S_SD pin of the codec
 
 
-### A.R.E : Amplifier
+## A.R.E : Amplifier
 
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
