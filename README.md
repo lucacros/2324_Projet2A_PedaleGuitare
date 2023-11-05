@@ -5,12 +5,12 @@ Enjoy your reading ! (Camille L)💡
 ## 📖 Table of contents
 - [🔧 List of components](#-list-of-components)
 - [🛠️ Hardware Specifications](#-hardware-specifications)
-    - [Block Diagram](#-block-diagram)
-    - [🔋 Power Board](#-power-board)
-    - [🎤 A.F.E : Preamplifier Design](#-afe--preamplifier-design)
-    - [🎧 Audio Codec Configuration](#-audio-codec-configuration)
-    - [💾 MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
-    - [🎤 A.R.E : Amplifier](#-are--amplifier)
+- [Block Diagram](#-block-diagram)
+- [🔋 Power Board](#-power-board)
+- [🎤 A.F.E : Preamplifier Design](#-afe--preamplifier-design)
+- [🎧 Audio Codec Configuration](#-audio-codec-configuration)
+- [💾 MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
+- [🎤 A.R.E : Amplifier](#-are--amplifier)
 - [💻 Installation](#-installation)
 
 
