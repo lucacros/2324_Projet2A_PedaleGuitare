@@ -48,9 +48,9 @@ A.R.E = Analog Rear End : Amplifier-Noise attenuation
 
 Connection from codec to microcontroller :
 
-- I2S_LRCLK from the codec to the I2S_LRCLK pin on the STM      
+- I2S_LRCLK from the codec to the I2S_LRCLK pin of the STM      
 - I2S_SCLK from codec to STM I2S_SCLK pin      
-- I2S_SD from codec to STM I2S_SD pin2. 
+- I2S_SD from codec to STM I2S_SD pin. 
 
 
 **2. From the SGTL5000 codec to the final amplifier :**
@@ -63,8 +63,8 @@ Codec analogue audio outputs: LINEOUT_L and LINEOUT_R pins
 **From the STM32F446ZCT6 microcontroller to the SGTL5000 codec via I2S for the return of the processed signal:** 
 
 To return the processed audio signal from the microcontroller to the codec, the corresponding I2S signals must also be connected:
-- I2S_LRCLK from the STM to the I2S_LRCLK pin on the codec      
-- I2S_SCLK from the STM to the I2S_SCLK pin on the codec     
+- I2S_LRCLK from the STM to the I2S_LRCLK pin of the codec      
+- I2S_SCLK from the STM to the I2S_SCLK pin of the codec     
 - I2S_SD from the STM to the I2S_SD pin of the codec
 
 ## 💻 Installation
