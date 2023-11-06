@@ -67,6 +67,8 @@ To return the processed audio signal from the microcontroller to the codec, the 
 - I2S_SCLK from the STM to the I2S_SCLK pin of the codec     
 - I2S_SD from the STM to the I2S_SD pin of the codec
 
+**From the STM32F446ZCT6 microcontroller to the RAM :**
+
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="Block Diagram" width="200" />
 
