@@ -2,13 +2,13 @@
 [Return to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 ## 📖 Table of contents
 
-- [1. AFE](#1-afe)
+- [1. AFE & ARE](#1-afe)
 - [2. CODEC](#2-codec)
 - [3. Microprocessor](#3-microprocessor)
 - [4. ARE](#4-are)
 
 
-# 1. AFE : Analog Front End
+# 1. AFE : Analog Front End & ARE : Analog Rear End
 
   We use a non-inverting AOP circuit composed of :
   - Resistor of [E12 Series] 
@@ -34,5 +34,5 @@
 
     **STM32F446ZCT6** : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F446ZCT6?qs=Ok1pvOkw6%2FqnUvQfUEqaFA%3D%3D
 
-# 4. ARE : Analog Rear End
+
 
