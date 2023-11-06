@@ -67,6 +67,9 @@ To return the processed audio signal from the microcontroller to the codec, the 
 - I2S_SCLK from the STM to the I2S_SCLK pin of the codec     
 - I2S_SD from the STM to the I2S_SD pin of the codec
 
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="Block Diagram" width="200" />
+
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
