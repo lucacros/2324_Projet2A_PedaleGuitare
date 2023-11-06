@@ -7,10 +7,9 @@ Enjoy your reading ! (Camille L)💡
 - [🛠️ Hardware Specifications](#-hardware-specifications)
   - [Block Diagram](#-block-diagram)
   - [🔋 Power Board](#-power-board)
-  - [🎤 A.F.E : Preamplifier Design](#-afe--preamplifier-design)
+  - [🎤 A.F.E : Preamplifier Design & A.R.E : Amplifier](#-afe--preamplifier-design-&-are--amplifier)
   - [🎧 Audio Codec Configuration](#-audio-codec-configuration)
   - [💾 MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
-  - [🎤 A.R.E : Amplifier](#-are--amplifier)
 - [💻 Installation](#-installation)
 
 
@@ -33,7 +32,7 @@ A.R.E = Analog Rear End : DAC-Noise attenuation-Egaliser
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Power%20Board%20Schematic.png" alt="Power Board" width="400" />
 </p>
 
-##  A.F.E : Preamplifier Design
+##  A.F.E : Preamplifier Design & A.R.E : Amplifier
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Preampli.png" alt="Preamplifier" width="400" />
 </p>
@@ -67,9 +66,6 @@ To return the processed audio signal from the microcontroller to the codec, the 
 - I2S_LRCLK from the STM to the I2S_LRCLK pin on the codec      
 - I2S_SCLK from the STM to the I2S_SCLK pin on the codec     
 - I2S_SD from the STM to the I2S_SD pin of the codec
-
-
-## A.R.E : Amplifier
 
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
