@@ -37,6 +37,6 @@ Etapes à suivre pour la fabrication :
 - Coder l'effet sous CubeIDE
 
 
-03/10 
+## 03/10 
 
 test de la synchronisation VSC avec github
