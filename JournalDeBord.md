@@ -17,7 +17,7 @@ Buffer with 40 read heads (instead of one). With different positions. Each head 
 
 ## 26/09
 
-#Definition of codec (wiki) : 
+# Definition of codec (wiki) : 
 
 
 Un codec est un dispositif matériel ou logiciel permettant de mettre en œuvre l'encodage ou le décodage d'un flux de données numérique, en vue d'une transmission ou d'un stockage. Certains codec intègrent également une fonction de compression ou encore de chiffrement des données.
