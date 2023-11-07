@@ -85,6 +85,7 @@ process =
 
 Reverb is controlled by the Dry/Wet Mix, voici deux exemples ( Dry/Wet Mix=-1 → [Large Reverb](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/audios/simplereverbOFF.wav) ; Dry/Wet Mix=+1 → [Small Reverb](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/audios/simplereverbOFF.wav))
 
+**How is it work with 3 lines 😱 ?** Go read this [file](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/Simplereverb.md)😎👌
 
 
 
