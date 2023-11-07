@@ -14,3 +14,9 @@ https://www.youtube.com/@PhilsLab
 
 ## Site pour trouver des montages : 
 sonelec-music
+
+## 🔊 Let's write a Reverb 
+
+ADC21 conference about Musical Reverberation Effect (creation and implementation C++)
+
+https://youtu.be/6ZK2Goiyotk?si=wrWfz4Z1EeCiMW1v
