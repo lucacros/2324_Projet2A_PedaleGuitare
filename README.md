@@ -76,8 +76,17 @@ Then enter the following lines and run
 ```html
 import("stdfaust.lib");
 process = 
-    dm.zita_light; // stereo reverb
+    dm.zita_light; // Stereo reverb from Faust standard library
 ```
+**DSP view (FaustIDE) :**
+<div align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/img/simplereverb.png" alt="DSP view" width="200" />
+</div>
+
+Reverb is controlled by the Dry/Wet Mix, voici deux exemples ( Dry/Wet Mix=-1 → [Reverb ON](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/audios/simplereverbOFF.wav) ; Dry/Wet Mix=+1 → [Reverb OFF](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/audios/simplereverbOFF.wav))
+
+
+
 
 
 
