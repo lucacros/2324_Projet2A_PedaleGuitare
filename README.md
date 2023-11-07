@@ -35,7 +35,7 @@ A.R.E = Analog Rear End : Amplifier-Noise attenuation
 
 ## Power section
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Power_section.png" alt="Power Board" width="400" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Power_section.png" alt="Power Board" width="500" />
 </p>
 
 ##  A.F.E : Preamplifier Design & A.R.E : Amplifier
