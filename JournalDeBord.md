@@ -27,20 +27,18 @@ Buffer with 40 read heads (instead of one). With different positions. Each head 
 
 ### Definition of codec (wiki) : 
 
+A codec is a hardware or software device used to encode or decode a digital data stream for transmission or storage. Some codecs also incorporate a data compression or encryption function.
+The acronym "codec" comes from "coder-decoder".
 
-Un codec est un dispositif matériel ou logiciel permettant de mettre en œuvre l'encodage ou le décodage d'un flux de données numérique, en vue d'une transmission ou d'un stockage. Certains codec intègrent également une fonction de compression ou encore de chiffrement des données.
-L'acronyme « codec » vient de « codeur décodeur » (coder-decoder en anglais).
 
+Manufacturing steps : 
 
-Etapes à suivre pour la fabrication : 
+- Select components (codec + microprocessor)
 
-- Choisir les composants (codec + Microprocesseur)
+- Design the PCB in Kikad
 
-- Faire le PCB sous Kikad
-
-- Coder l'effet sous CubeIDE
-
+- Code the effect in CubeIDE
 
 ## 03/10 
 
-test de la synchronisation VSC avec github
+Test VSC synchronization with github.
