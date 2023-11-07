@@ -71,4 +71,12 @@ To implemente an effect, I will follow these three steps :
 - User interface
 - Tests and adjustments
 
+<!-- 
+
+import("stdfaust.lib");
+process = 
+    dm.zita_light; // stereo reverb
+    
+  -->
+
 
