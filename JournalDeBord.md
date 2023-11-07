@@ -2,26 +2,22 @@
 
 ## 19/09
 
-Présentation des projets de 2ème année, explication des critères de notations ete des attendus.
- 
-Budget alloué de 40€ par tête. Tableur pour les commandes (bientôt disponible)
+Presentation of 2nd year projects, explanation of grading criteria and expectations.
 
-Démarrage du brainstorming 
+Allocated budget of €40 per head. Spreadsheet for orders (available soon)
 
-J'ai réussis a rejoindre le github. (Jolan)
+Brainstorming started
 
+I've managed to join the github. (Jolan)
 
+Study of the Supercell module on the RACKV2 software, presented by our mentor Mr. Fiack.
 
-Etude du module Supercell sur le logiciel RACKV2, présentation par notre encadrant M. Fiack
-
-
-Buffer avec 40 têtes de lecture (au lieu de une). Avec différentes positions. Chaque tête possède une envelloppe. Le trigg possède une densité. Pitch à 0 (= delay), Pitch a forte densité (petits acoups). Shape change la forme de l'envelloppe.
-Density, nombre de tete de lecture jouées 
+Buffer with 40 read heads (instead of one). With different positions. Each head has a wrapper. The trigg has a density. Pitch at 0 (= delay), pitch at high density (small clicks). Shape changes the shape of the envelope. Density, number of playback heads played.
 
 
 ## 26/09
 
-définition du Codec (wiki) : 
+#Definition of codec (wiki) : 
 
 
 Un codec est un dispositif matériel ou logiciel permettant de mettre en œuvre l'encodage ou le décodage d'un flux de données numérique, en vue d'une transmission ou d'un stockage. Certains codec intègrent également une fonction de compression ou encore de chiffrement des données.
