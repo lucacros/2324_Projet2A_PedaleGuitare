@@ -475,10 +475,6 @@
     [
       "562c3ef4-3faf-4a2b-b183-c065b2c5f1b8",
       "stm32"
-    ],
-    [
-      "c1603cda-7397-4975-b19d-b8fd3e36700d",
-      "USB_OTG"
     ]
   ],
   "text_variables": {}
