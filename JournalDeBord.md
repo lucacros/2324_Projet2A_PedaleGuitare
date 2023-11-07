@@ -1,5 +1,13 @@
 # Journal de bord 📰
 
+
+## Table of contents
+
+- 📌 [Jolan's Work](#-jolan-s-work)
+- 📌 Camille's Work
+- 📌 Luca's Work
+
+# 📌 Jolan's Work
 ## 19/09
 
 Presentation of 2nd year projects, explanation of grading criteria and expectations.
