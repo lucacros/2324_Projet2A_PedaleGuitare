@@ -1,9 +1,12 @@
-pédale granulaire de M.Fiack
+# Link of website ![LinkLegendOfZeldaGIF](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136370445/507662e2-734e-49b0-955a-41fe087be7cd)
+
+
+## Granular pedal of M.Fiack
 
 https://www.hologramelectronics.com/microcosm
 
 
-fais tes effets de guitare 
+## fais tes effets de guitare 
 
 https://fais-tes-effets-guitare.com
 
