@@ -14,8 +14,8 @@ Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
   - 🎶 Reverberation
   - 🎛️ Granular Delay
 - [🔧 Which IDE ? ](#-which-ide-?)
-  - FAUST
-  - JUCE
+  - 🔊 FAUST
+  - 🍋 JUCE
 - [💻  Implementation](#-implementation)
 
 ## 🛠 Musical Effects
@@ -48,7 +48,7 @@ Also, simulating the long-term effects of sound propagation in enclosures is the
 After trying to code an IN/OUT audio in C++ with the library "portaudio", I was pushed on the Audio IDE way by my professor... 
 Create or reuse the effects already existing ? We will see
 
-### FAUST
+### 🔊 FAUST
 
 All the sources provide from https://faust.grame.fr/
 
@@ -61,7 +61,7 @@ This online IDE allows me to explore and implement some musical effects that wil
 
 
 
-### JUCE 
+### 🍋 JUCE 
 
 ## 💻  Implementation
 
