@@ -1,7 +1,9 @@
-19/09
+# Journal de bord 📰
+
+## 19/09
 
 Présentation des projets de 2ème année, explication des critères de notations ete des attendus.
-
+ 
 Budget alloué de 40€ par tête. Tableur pour les commandes (bientôt disponible)
 
 Démarrage du brainstorming 
@@ -17,7 +19,7 @@ Buffer avec 40 têtes de lecture (au lieu de une). Avec différentes positions. 
 Density, nombre de tete de lecture jouées 
 
 
-26/09
+## 26/09
 
 définition du Codec (wiki) : 
 
