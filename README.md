@@ -31,6 +31,7 @@ A.R.E = Analog Rear End : Amplifier-Noise attenuation
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/sch%C3%A9ma%20pr%C3%A9ampli.PNG" alt="Block Diagram" width="600" />
 </p>
+
 ### Schéma préampli de la guitare pour envoyé le signal vers le codec.
 
 ## Power Board
