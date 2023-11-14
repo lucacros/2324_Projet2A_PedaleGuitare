@@ -36,5 +36,6 @@
 
 # 4. Switchs
 
-- Buffer : SW1045PC Footswitch
+- Buffer : SW1045PC Footswitch (https://www.thomann.de/fr/thomann_fussschalter_sw45pc.htm)
+
 
