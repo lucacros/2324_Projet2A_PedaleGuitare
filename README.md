@@ -93,7 +93,7 @@ Then, click on this button to export the project in c  :
 
 And compile to specific plateform binary code (Plateform : source ; Architecture : c )
 
-**Download**🎁 → [simplereverb.c](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/simplereverbcodes/simplereverb.c)
+**Download**🎁 → [simplereverb.c](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/simplereverbcodes/simplereverb)
 
 #### 🖥️ C
 
