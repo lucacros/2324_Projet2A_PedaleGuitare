@@ -37,5 +37,6 @@
 # 4. Switchs
 
 - Buffer : SW1045PC Footswitch (https://www.thomann.de/fr/thomann_fussschalter_sw45pc.htm)
+    Datasheet : https://www.tubeampdoctor.com/media/pdf/35/49/5a/sw1045pc_15-12-2020.pdf
 
 
