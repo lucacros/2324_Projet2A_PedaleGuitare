@@ -38,7 +38,7 @@ To better organize our project, we have drawn up a task breakdown with each asso
 
 ## 📁 Branches structure
 
-Explain the project's branches and file structure.
+Project's branches and file structure.
 
 ### 🛠️ Hardware Section
 
