@@ -34,5 +34,7 @@
 
     **STM32F446ZCT6** : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F446ZCT6?qs=Ok1pvOkw6%2FqnUvQfUEqaFA%3D%3D
 
+# Switchs
 
+- Buffer : SW1045PC Footswitch
 
