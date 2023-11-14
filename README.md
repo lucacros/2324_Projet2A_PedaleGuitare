@@ -69,7 +69,7 @@ To implement an effect, I will follow these three steps:
 
 
 ### 🔊 A Simple Reverb
-
+#### 🔊 Faust
 How do you code in Faust? Go to https://faustide.grame.fr/
 
 Then enter the following lines and run
@@ -95,5 +95,5 @@ And compile to specific plateform binary code (Plateform : source ; Architecture
 
 **Download**🎁
 
-
+#### 🖥️ C
 
