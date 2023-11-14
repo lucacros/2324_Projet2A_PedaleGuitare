@@ -11,8 +11,8 @@
 # 1. Preamp
 
   We use a non-inverting AOP circuit composed of :
-  - Resistor of [E48 Series] 
-  - Resistor of [E48 Series] 
+  - Resistor of 470k [E12 Series] 
+  - Resistor of 1.2Meg [E12 Series] 
   - Capacitor of
   - Capacitor of 
   - AOP : **MCP6001** (we can take the MCP6001 if we need only one AOP) (https://fr.rs-online.com/web/p/amplificateurs-operationnels/6674339).
