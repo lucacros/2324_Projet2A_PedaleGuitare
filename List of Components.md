@@ -36,7 +36,5 @@
 
 # 4. Switchs
 
-- Buffer : SW1045PC Footswitch (https://www.thomann.de/fr/thomann_fussschalter_sw45pc.htm)
-  Datasheet : https://www.tubeampdoctor.com/media/pdf/35/49/5a/sw1045pc_15-12-2020.pdf
-
+- Buffer : Footswitch (https://fr.rs-online.com/web/p/boutons-poussoirs/8466720?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Interrupteurs-_-8466720&matchtype=&pla-2207274706978&gclid=CjwKCAiA0syqBhBxEiwAeNx9N6utkDLIjKUNhnXx6ooCtrtBrR3GgiJED1HuFbTbtkXJqQKehzSm0RoC0TEQAvD_BwE&gclsrc=aw.ds)
 
