@@ -87,8 +87,13 @@ Reverb is controlled by the Dry/Wet Mix ( Dry/Wet Mix=-1 → [Large Reverb](http
 
 **How is it work with 3 lines 😱 ?** Go read this [file](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/Simplereverb.md)😎👌
 
+Then, click on this button to export the project in c  : 
 
+<img width="66" alt="button" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c4fad7d0-e04a-4c66-b4e1-c8aec9572571">
 
+And compile to specific plateform binary code (Plateform : source ; Architecture : c )
+
+**Download**🎁
 
 
 
