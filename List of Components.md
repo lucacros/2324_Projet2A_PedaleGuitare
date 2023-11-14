@@ -14,7 +14,7 @@
   - Resistor of 470k [E12 Series] 
   - Resistor of 1.2Meg [E12 Series] 
   - Capacitor of 100µ.
-  - Capacitor of 
+  - Capacitor of 820pF.
   - AOP : **MCP6001** (we can take the MCP6001 if we need only one AOP) (https://fr.rs-online.com/web/p/amplificateurs-operationnels/6674339).
   
 # 2. Audio CODEC
