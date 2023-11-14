@@ -9,11 +9,7 @@
 
 # Jolan's Work
 
-## 07/11/2023
-2nd presentation of our progress. (https://1drv.ms/p/s!AhTm1sjPNY-GgjRiXmJ6r0E80x2i?e=7ZnZlr)
-We have to make a lot of changes especially for the component (AOP LM324 has to be replaced by a better one with less distortion).
-For the AOP we choose the MCP6002.
-I begin test the preamp schematic on LTspice.
+
 
 ## 19/09
 
@@ -49,6 +45,18 @@ Manufacturing steps :
 ## 03/10 
 
 Test VSC synchronization with github.
+
+## 07/11/2023
+2nd presentation of our progress. (https://1drv.ms/p/s!AhTm1sjPNY-GgjRiXmJ6r0E80x2i?e=7ZnZlr)
+We have to make a lot of changes especially for the component (AOP LM324 has to be replaced by a better one with less distortion).
+For the AOP we choose the MCP6002.
+I begin test the preamp schematic on LTspice.
+
+## 14/11/2023
+I finally found the right component for the preamplifier. 
+I connected the jack plug to the Kicad.
+I was looking for a footswitch to control the buffer. But it was hard to find, because there are a lot of footswitches on Thomann, but there is no datasheet or foodprint.
+
 
 # Camille's Work
 
