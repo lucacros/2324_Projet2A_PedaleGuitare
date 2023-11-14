@@ -53,6 +53,9 @@ Test VSC synchronization with github.
 # Camille's Work
 
 ## 07/11/2023
+Finalization of the electric schematic
+Beginning of router
+## 07/11/2023
 2nd presentation of our progress. (https://1drv.ms/p/s!AhTm1sjPNY-GgjRiXmJ6r0E80x2i?e=7ZnZlr)
 We have to make a lot of changes especially for the component (AOP LM324 has to be replaced by a better one with less distortion).
 For the AOP we choose the MCP6002.
