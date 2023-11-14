@@ -101,3 +101,19 @@ Manufacturing steps :
 - Design the PCB in Kikad
 
 - Code the effect in CubeIDE
+
+# Luca's Work
+
+## 14/11/23
+
+## 7/11/23
+
+## 24/10/23
+
+## 17/10/23
+
+## 10/10/23
+
+## 03/23
+
+## 26/09
