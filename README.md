@@ -1,6 +1,6 @@
 # Here you are in the 🛠️ Hardware Section
 You will find all specifications and things to understand it.
-Enjoy your reading ! (Camille L)💡
+Enjoy your reading ! (Camille L)
 
 ## 📖 Table of contents
 - [🔧 List of components](#-list-of-components)
@@ -21,6 +21,7 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 
 ## 🛠️ Hardware Specifications
 ## Block Diagram
+Schéma Vue d'ensemble du systeme
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png" alt="Block Diagram" width="600" />
 </p>
@@ -28,27 +29,34 @@ A.F.E = Analog Front End : Preamplifier-Noise attenuation
 
 A.R.E = Analog Rear End : Amplifier-Noise attenuation
 
-### Guitar preamp schematic to send the signal to the codec.
+Nous utilisons AFE pour adapter le tensions au Codec = 2,83Vpp pour une tension d'alimentation de 3,3V. Pour savoir, si vous devez mettre un AFE, vous devez mesurer le signal de votre guitare.
+
+**<p align="center"> Guitar signal </p>**
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/sch%C3%A9ma%20pr%C3%A9ampli.PNG" alt="Block Diagram" width="600" />
+  <img src="" alt="Guitar signal" width="600" />
 </p>
 
-## Power section
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Power_section.png" alt="Power Board" width="500" />
 
+
+## Power section
+L'intégralité de vos composants consomme du 3,3V. Pour les alimenter, des régulateurs suffisent.
+
+<p align="center">
+  <img src="" alt="Power section" width="500" />
+</p>
 The 17950x78 integrates both the input and output capacitors. Therefore, additional external input/output capacitors are normally not required.
 The additional 100µF capacitor C1 is mounted as termination of the supply line and provides a slight damping of possible oscillations of the series resonance circuit represented by the inductance of the supply line and the input capacitance. This capacitor also prevents voltage overshoot during start up.
 
-</p>
 
-##  A.F.E : Preamplifier Design & A.R.E : Amplifier
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Preampli.png" alt="Preamplifier" width="400" />
-</p>
+
+
 
 ## Audio Codec Configuration
-**1. From the SGTL5000 codec to the STM32F446ZCT6 microcontroller via I2S :**
+
+The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio codec. Its basic operation involves converting digital audio signals to analog for audio output and converting analog signals to digital for audio input. The essential pins include those for I2S communication, power supply, mode selection, audio input and output connections, as well as control pins to configure the codec based on application requirements.
+
+
+**From the SGTL5000 codec to the STM32F446ZCT6 microcontroller via I2S :**
 
  I2S signals include:
  
@@ -62,14 +70,13 @@ Connection from codec to microcontroller :
 - I2S_SCLK from codec to STM I2S_SCLK pin      
 - I2S_SD from codec to STM I2S_SD pin. 
 
-
-**2. From the SGTL5000 codec to the final amplifier :**
-
-Codec analogue audio outputs: LINEOUT_L and LINEOUT_R pins
-
+<p align="center">
+  <img src="" alt="Codec SGTL5000" width="500" />
+</p>
 
 ## MicroProcessor Configuration (with extern memory : RAM )
 
+### RAM : 
 **From the STM32F446ZCT6 microcontroller to the SGTL5000 codec via I2S for the return of the processed signal:** 
 
 To return the processed audio signal from the microcontroller to the codec, the corresponding I2S signals must also be connected:
