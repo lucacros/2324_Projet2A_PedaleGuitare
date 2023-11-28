@@ -99,4 +99,13 @@ And compile to specific plateform binary code (Plateform : source ; Architecture
 
 We start coding on STM32CubeIDE
 
-by
+To Capture the AudioStream, we need to capture and store a lot more data than in a short amount of time.
+
+To don't bog down the CPU, we use another peripheric : **The DMA**, to moove directly from the ADC to the Memory Buffer.
+
+<img width="409" alt="CPUmanager" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/1380e625-ba8c-4a52-a5c6-a04985e5760c">
+<img width="402" alt="DMA" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/9df79011-302f-4634-b7d7-f35a8c30be52">
+
+The DMA is working as a large pipe that funnels data from one peripheral to the other while the CPU goes off and does other things.
+
+
