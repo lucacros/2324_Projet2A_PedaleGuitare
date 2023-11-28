@@ -2,37 +2,38 @@
 [Return to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 ## 📖 Table of contents
 
-- [1. Preamp](#1-afe)
+- [1. Power section](#1-power-section)
 - [2. CODEC](#2-codec)
-- [3. Microprocessor](#3-microprocessor)
-- [4. ARE](#4-are)
+- [3. RAM](#3-ram)
+- [4. Microprocessor](#4-microprocessor)
 
+# 1. Power section
 
-# 1. Preamp
+  - Resistor of 1k [E12 Series] 
+  - Led [0.64x0.40mm]
+  - 2 x Capacitor of 100µF.
+  - 1 x Capacitor of 10µF.
+  - 1 x Capacitor of 1µF
+  - Regulator 173950578
+  - Regulator LM7805_TO220 : https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF
+  - DC plug 4840.2201 :
 
-  We use a non-inverting AOP circuit composed of :
-  - Resistor of 470k [E12 Series] 
-  - Resistor of 1.2Meg [E12 Series] 
-  - Capacitor of 100µ.
-  - Capacitor of 820pF.
-  - AOP : **MCP6001** (we can take the MCP6001 if we need only one AOP) (https://fr.rs-online.com/web/p/amplificateurs-operationnels/6674339).
-  
+    
 # 2. Audio CODEC
 
-   **STGL5000**
-   
-   https://www.nxp.com/products/audio-and-radio/audio-converters/ultra-low-power-audio-codec:SGTL5000
+   - 3 x Capacitor of 100µF.
+   - **STGL5000**  :  https://www.nxp.com/products/audio-and-radio/audio-converters/ultra-low-power-audio-codec:SGTL5000
 
-# 3. Microprocessor
+# 3. R.A.M
+   - 7 x Capacitor of 100µF
+   - **IS42S16400J-xC** : http://www.issi.com/WW/pdf/42-45S16400J.pdf
 
-**Microprocessor select**
-  - **Family Classment :**
-    - **STM32F4xx**: sont puissants et polyvalents. Ils offrent une grande capacité de traitement et de mémoire, ce qui peut être utile pour implémenter des effets audio complexes
-    - **STM32F7xx**: sont encore plus puissants que les STM32F4xx, ce qui peut être utile pour traiter des signaux audio de haute qualité ou d'ajouter des fonctionnalités avancées.
 
- - **Final choice :**
+# 4. Microprocessor 
 
-    **STM32F446ZCT6** : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F446ZCT6?qs=Ok1pvOkw6%2FqnUvQfUEqaFA%3D%3D
+   - 14 x Capacitor of 100µF : 13 for Etage d'alimentation
+   - 1 x Resistor of 510 Ohms
+      - **STM32F446ZCT6** : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F446ZCT6?qs=Ok1pvOkw6%2FqnUvQfUEqaFA%3D%3D
 
 # 4. Switchs
 
