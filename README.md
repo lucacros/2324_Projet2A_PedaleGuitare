@@ -7,7 +7,6 @@ Enjoy your reading ! (Camille L)
 - [🛠️ Hardware Specifications](#-hardware-specifications)
   - [Block Diagram](#-block-diagram)
   - [🔋 Power Board](#-power-board)
-  - [🎤 A.F.E : Preamplifier Design & A.R.E : Amplifier](#-afe--preamplifier-design-&-are--amplifier)
   - [🎧 Audio Codec Configuration](#-audio-codec-configuration)
   - [💾 MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
 - [💻 Installation](#-installation)
@@ -42,13 +41,10 @@ Nous utilisons AFE pour adapter le tensions au Codec = 2,83Vpp pour une tension 
 L'intégralité de vos composants consomme du 3,3V. Pour les alimenter, des régulateurs suffisent.
 
 <p align="center">
-  <img src="" alt="Power section" width="500" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
 </p>
 The 17950x78 integrates both the input and output capacitors. Therefore, additional external input/output capacitors are normally not required.
 The additional 100µF capacitor C1 is mounted as termination of the supply line and provides a slight damping of possible oscillations of the series resonance circuit represented by the inductance of the supply line and the input capacitance. This capacitor also prevents voltage overshoot during start up.
-
-
-
 
 
 ## Audio Codec Configuration
@@ -71,7 +67,7 @@ Connection from codec to microcontroller :
 - I2S_SD from codec to STM I2S_SD pin. 
 
 <p align="center">
-  <img src="" alt="Codec SGTL5000" width="500" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20codec.png" alt="Codec SGTL5000" width="500" />
 </p>
 
 ## MicroProcessor Configuration (with extern memory : RAM )
@@ -87,8 +83,10 @@ To return the processed audio signal from the microcontroller to the codec, the 
 **From the STM32F446ZCT6 microcontroller to the RAM :**
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="Block Diagram" width="200" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="200" />
 
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png" alt="µP" width="200" />
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
