@@ -3,7 +3,7 @@
 ## 📖 Table of contents
 
 1. [Power section](#power-section)
-2. [CODEC](#codec)
+2. [CODEC](#audio-codec)
 3. [RAM](#ram)
 4. [Microprocessor](#microprocessor)
 
