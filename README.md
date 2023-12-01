@@ -13,12 +13,12 @@ Enjoy your reading ! (Camille L)
 
 
 
-## 🔧 List of components
+## List of components
 - [Link to List of Components](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/List%20of%20Components.md)
 
 For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
-## 🛠️ Hardware Specifications
+## Hardware Specifications
 
 
 ## Block Diagram
