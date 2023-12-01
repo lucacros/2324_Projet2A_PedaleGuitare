@@ -22,15 +22,12 @@ Our multi-effects guitar pedal project aims to provide a versatile platform for 
 - Effect 1 : **Reverberation** "An effect which creates a sense of space, by generating a diffuse longer-lasting sound from a short-input."
 - Effect 2 : Description brève
 - ...
-### 💡 Key features
-
-
-## 🔧 Project structure
-The project is divided into 2 parts: the first is analog, with the creation of the system's electronic board, and the second is the creation of the various digital audio effects.
-
 
 
 ## 📁 Branches structure
+
+The project is divided into 3 parts: project management, the second part is analogue, with the creation of the system's electronic board, and the third is the creation of the various digital audio effects. 
+The second is the creation of the various digital audio effects.
 
 ### Management Section
 
