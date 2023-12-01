@@ -6,6 +6,7 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Présentation](#-présentation)
 - [📁 Branches structure](#-branches-structure)
+  - 📅 Management Section
   - 🛠️ Hardware Section
   - 💻 Software Section
 - [🚀 Contributions](#-contributions)
@@ -28,7 +29,7 @@ Our multi-effects guitar pedal project aims to provide a versatile platform for 
 The project is divided into 3 parts: project management, the second part is analogue, with the creation of the system's electronic board, and the third is the creation of the various digital audio effects. 
 The second is the creation of the various digital audio effects.
 
-### ⚙📜📃📒📚📕📰📊📉📈📌📅Management Section
+### 📅 Management Section
 
 In this section, you'll find everything to do with project management.
 
