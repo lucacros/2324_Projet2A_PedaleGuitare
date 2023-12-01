@@ -1,15 +1,15 @@
-# Here you are in the 🛠️ Hardware Section
+# Here you are in the Hardware Section
 You will find all specifications and things to understand it.
 Enjoy your reading ! (Camille L)
 
 ## 📖 Table of contents
-- [🔧 List of components](#-list-of-components)
-- [🛠️ Hardware Specifications](#-hardware-specifications)
+- [List of components](#-list-of-components)
+- [Hardware Specifications](#-hardware-specifications)
   - [Block Diagram](#-block-diagram)
-  - [🔋 Power Board](#-power-section)
-  - [🎧 Audio Codec Configuration](#-audio-codec-configuration)
-  - [💾 MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
-- [💻 Installation](#-installation)
+  - [Power Board](#-power-section)
+  - [Audio Codec Configuration](#-audio-codec-configuration)
+  - [MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
+- [Installation](#-installation)
 
 
 
