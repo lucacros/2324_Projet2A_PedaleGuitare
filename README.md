@@ -108,4 +108,6 @@ To don't bog down the CPU, we use another peripheric : **The DMA**, to moove dir
 
 The DMA is working as a large pipe that funnels data from one peripheral to the other while the CPU goes off and does other things.
 
+First, let's display the DAC on the oscilloscop and then we will deduce how display the ADC.
+
 
