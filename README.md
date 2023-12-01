@@ -39,8 +39,7 @@ We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3
 
 
 ## Power section
-L'intégralité de vos composants consomme du 3,3V. Pour les alimenter, des régulateurs suffisent.
-
+All your components consume 3.3V. Regulators are all you need to power them.
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
 </p>
