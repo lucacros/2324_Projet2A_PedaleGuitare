@@ -3,13 +3,13 @@ You will find all specifications and things to understand it.
 Enjoy your reading ! (Camille L)
 
 ## 📖 Table of contents
-- [List of components](#-list-of-components)
-- [Hardware Specifications](#-hardware-specifications)
-  - [Block Diagram](#-block-diagram)
-  - [Power Board](#-power-section)
-  - [Audio Codec Configuration](#-audio-codec-configuration)
-  - [MicroProcessor Configuration (with extern memory: RAM)](#-microprocessor-configuration-with-extern-memory-ram)
-- [Installation](#-installation)
+1. [List of components](#list-of-components)
+2. [Hardware Specifications](#hardware-specifications)
+  - [Block Diagram](#block-diagram)
+  - [Power Board](#power-section)
+  - [Audio Codec Configuration](#audio-codec-configuration)
+  - [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
+3. [Installation](#installation)
 
 
 
