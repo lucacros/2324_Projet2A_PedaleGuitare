@@ -40,4 +40,4 @@
 - Buffer : Footswitch [Link to mouser RS website](https://fr.rs-online.com/web/p/boutons-poussoirs/8466720?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Interrupteurs-_-8466720&matchtype=&pla-2207274706978&gclid=CjwKCAiA0syqBhBxEiwAeNx9N6utkDLIjKUNhnXx6ooCtrtBrR3GgiJED1HuFbTbtkXJqQKehzSm0RoC0TEQAvD_BwE&gclsrc=aw.ds)
 
 # Help
-If a link is down go here to obtain all data sheets : [Link for all]()
+If a link is down go here to obtain all data sheets : [Link for all](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section/data%20sheets)
