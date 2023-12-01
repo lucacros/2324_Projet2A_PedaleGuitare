@@ -20,7 +20,8 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 
 ## 🛠️ Hardware Specifications
 ## Block Diagram
-Schéma Vue d'ensemble du systeme
+**<p align="center">Diagram System overview</p>**
+
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png" alt="Block Diagram" width="600" />
 </p>
@@ -28,7 +29,7 @@ A.F.E = Analog Front End : Preamplifier-Noise attenuation
 
 A.R.E = Analog Rear End : Amplifier-Noise attenuation
 
-Nous utilisons AFE pour adapter le tensions au Codec = 2,83Vpp pour une tension d'alimentation de 3,3V. Pour savoir, si vous devez mettre un AFE, vous devez mesurer le signal de votre guitare.
+We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3.3V. To find out if you need to fit an AFE, you need to measure the signal from your guitar.
 
 **<p align="center"> Guitar signal </p>**
 <p align="center">
