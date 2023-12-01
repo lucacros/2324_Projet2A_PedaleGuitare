@@ -5,7 +5,6 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 ## 📖 Table of contents
 
 - [📌 Présentation](#-présentation)
-- [🔧 Project structure](#-project-structure)
 - [📁 Branches structure](#-branches-structure)
   - 🛠️ Hardware Section
   - 💻 Software Section
