@@ -4,7 +4,7 @@ Enjoy your reading ! (Camille L)
 
 ## 📖 Table of contents
 - [🔧 List of components](#-list-of-components)
-- [🛠️ Hardware Specifications](#-hardware-specifications)
+- [🛠️ Hardware Specifications](#-hardware_specifications)
   - [Block Diagram](#-block-diagram)
   - [🔋 Power Board](#-power-section)
   - [🎧 Audio Codec Configuration](#-audio-codec-configuration)
@@ -18,7 +18,7 @@ Enjoy your reading ! (Camille L)
 
 For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
-## 🛠️ Hardware Specifications
+## 🛠️ Hardware_Specifications
 ## Block Diagram
 **<p align="center">Diagram System overview</p>**
 
