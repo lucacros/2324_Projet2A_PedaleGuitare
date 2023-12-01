@@ -18,7 +18,7 @@ Enjoy your reading ! (Camille L)
 
 For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
-## 🛠️ Hardware-Specifications
+## 🛠️ Hardware Specifications
 ## Block Diagram
 **<p align="center">Diagram System overview</p>**
 
