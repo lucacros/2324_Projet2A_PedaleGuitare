@@ -68,7 +68,8 @@ The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio code
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20codec.png" alt="Codec SGTL5000" width="400" />
 </p>
 
-### RAM Configuration
+
+## RAM Configuration
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="400" />
