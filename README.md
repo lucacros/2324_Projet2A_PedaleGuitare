@@ -19,6 +19,8 @@ Enjoy your reading ! (Camille L)
 For more details on each component, refer to [Hardware Specifications](#hardware-specifications).
 
 ## 🛠️ Hardware Specifications
+
+
 ## Block Diagram
 **<p align="center">Diagram System overview</p>**
 
@@ -45,7 +47,7 @@ We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3
 
 
 ## Power section
-All your components consume 3.3V. Regulators are all you need to power them.
+La puissance dissipée dans le composant électronique utilisé en commutation est moindre que lorsqu'il est utilisé en mode linéaire.
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
 </p>
