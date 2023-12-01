@@ -15,18 +15,18 @@
   - 1 x Capacitor of 10µF.
   - 1 x Capacitor of 1µF
   - Regulator 173950578
-  - Regulator LM7805_TO220 : https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF
+  - Regulator LM7805_TO220 : [Link to purchare](https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF)
   - DC plug 4840.2201 :
 
     
 # 2. Audio CODEC
 
    - 3 x Capacitor of 100µF.
-   - **STGL5000**  :  https://www.nxp.com/products/audio-and-radio/audio-converters/ultra-low-power-audio-codec:SGTL5000
+   - **STGL5000**  :   [Link to purchare and data sheet](https://www.nxp.com/products/audio-and-radio/audio-converters/ultra-low-power-audio-codec:SGTL5000)
 
 # 3. R.A.M
    - 7 x Capacitor of 100µF
-   - **IS42S16400J-xC** : http://www.issi.com/WW/pdf/42-45S16400J.pdf
+   - **IS42S16400J-xC** : [Link to data sheet](http://www.issi.com/WW/pdf/42-45S16400J.pdf)
 
 
 # 4. Microprocessor 
