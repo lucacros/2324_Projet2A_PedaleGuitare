@@ -2,10 +2,10 @@
 [Return to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
 ## 📖 Table of contents
 
-1. [Power section](#-power-section)
-2. [CODEC](#-codec)
-3. [RAM](#-ram)
-4. [Microprocessor](#-microprocessor)
+1. [Power section](#power-section)
+2. [CODEC](#codec)
+3. [RAM](#ram)
+4. [Microprocessor](#microprocessor)
 
 # Power section
 
