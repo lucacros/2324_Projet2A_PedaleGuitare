@@ -41,6 +41,7 @@ To better organize our project, we have drawn up a task breakdown with each asso
 ### Mangement Section
 
 In this section, you'll find everything to do with project management.
+
 [Link to Project Management Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Project-Management)
 
 ### 🛠️ Hardware Section
