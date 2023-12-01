@@ -8,7 +8,8 @@ Enjoy your reading ! (Camille L)
     1. [Block Diagram](#block-diagram)
     2. [Power Board](#power-section)
     3. [Audio Codec Configuration](#audio-codec-configuration)
-    4. [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
+    4. [RAM Codec Configuration](#ram-codec-configuration)
+    5. [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
 3. [Installation](#installation)
 
 
@@ -60,39 +61,29 @@ The additional 100µF capacitor C1 is mounted as termination of the supply line 
 The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio codec. Its basic operation involves converting digital audio signals to analog for audio output and converting analog signals to digital for audio input. The essential pins include those for I2S communication, power supply, mode selection, audio input and output connections, as well as control pins to configure the codec based on application requirements.
 
 
-**From the SGTL5000 codec to the STM32F446ZCT6 microcontroller via I2S :**
 
- I2S signals include:
- 
-- I2S_LRCLK (Left/Right Clock): left or right audio channel.      
-- I2S_SCLK (Serial Clock): the serial synchronization clock.      
-- I2S_SD (Serial Data): audio data   
 
-Connection from codec to microcontroller :
-
-- I2S_LRCLK from the codec to the I2S_LRCLK pin of the STM      
-- I2S_SCLK from codec to STM I2S_SCLK pin      
-- I2S_SD from codec to STM I2S_SD pin. 
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20codec.png" alt="Codec SGTL5000" width="400" />
 </p>
 
-## MicroProcessor Configuration (with extern memory : RAM )
-
-### RAM : 
-**From the STM32F446ZCT6 microcontroller to the SGTL5000 codec via I2S for the return of the processed signal:** 
-
-To return the processed audio signal from the microcontroller to the codec, the corresponding I2S signals must also be connected:
-- I2S_LRCLK from the STM to the I2S_LRCLK pin of the codec      
-- I2S_SCLK from the STM to the I2S_SCLK pin of the codec     
-- I2S_SD from the STM to the I2S_SD pin of the codec
-
-**From the STM32F446ZCT6 microcontroller to the RAM :**
+### RAM Configuration
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="400" />
 </p>
+
+
+## MicroProcessor Configuration
+
+
+
+
+
+**From the STM32F446ZCT6 microcontroller to the RAM :**
+
+
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png" alt="µP" width="400" />
