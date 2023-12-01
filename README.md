@@ -5,10 +5,10 @@ Enjoy your reading ! (Camille L)
 ## 📖 Table of contents
 1. [List of components](#list-of-components)
 2. [Hardware Specifications](#hardware-specifications)
-  - [Block Diagram](#block-diagram)
-  - [Power Board](#power-section)
-  - [Audio Codec Configuration](#audio-codec-configuration)
-  - [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
+    1. [Block Diagram](#block-diagram)
+    2. [Power Board](#power-section)
+    3. [Audio Codec Configuration](#audio-codec-configuration)
+    4. [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
 3. [Installation](#installation)
 
 
