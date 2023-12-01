@@ -67,7 +67,7 @@ Connection from codec to microcontroller :
 - I2S_SD from codec to STM I2S_SD pin. 
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20codec.png" alt="Codec SGTL5000" width="500" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20codec.png" alt="Codec SGTL5000" width="400" />
 </p>
 
 ## MicroProcessor Configuration (with extern memory : RAM )
@@ -83,10 +83,13 @@ To return the processed audio signal from the microcontroller to the codec, the 
 **From the STM32F446ZCT6 microcontroller to the RAM :**
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="200" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="400" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png" alt="µP" width="200" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png" alt="µP" width="400" />
+</p>
+  
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
