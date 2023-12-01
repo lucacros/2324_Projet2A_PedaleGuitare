@@ -8,7 +8,7 @@ Enjoy your reading ! (Camille L)
     1. [Block Diagram](#block-diagram)
     2. [Power Board](#power-section)
     3. [Audio Codec Configuration](#audio-codec-configuration)
-    4. [RAM Configuration](#ram-codec-configuration)
+    4. [RAM Configuration](#ram-configuration)
     5. [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
 3. [Installation](#installation)
 
