@@ -33,9 +33,11 @@
 
    - 14 x Capacitor of 100µF : 13 for Etage d'alimentation
    - 1 x Resistor of 510 Ohms
-      - **STM32F446ZCT6** : https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F446ZCT6?qs=Ok1pvOkw6%2FqnUvQfUEqaFA%3D%3D
+      - **STM32F446ZCT6** : [Link to mouser website] (https://www.mouser.fr/ProductDetail/STMicroelectronics/STM32F446ZCT6?qs=Ok1pvOkw6%2FqnUvQfUEqaFA%3D%3D)
 
 # 4. Switchs
 
-- Buffer : Footswitch (https://fr.rs-online.com/web/p/boutons-poussoirs/8466720?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Interrupteurs-_-8466720&matchtype=&pla-2207274706978&gclid=CjwKCAiA0syqBhBxEiwAeNx9N6utkDLIjKUNhnXx6ooCtrtBrR3GgiJED1HuFbTbtkXJqQKehzSm0RoC0TEQAvD_BwE&gclsrc=aw.ds)
+- Buffer : Footswitch [Link to mouser RS website](https://fr.rs-online.com/web/p/boutons-poussoirs/8466720?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Interrupteurs-_-8466720&matchtype=&pla-2207274706978&gclid=CjwKCAiA0syqBhBxEiwAeNx9N6utkDLIjKUNhnXx6ooCtrtBrR3GgiJED1HuFbTbtkXJqQKehzSm0RoC0TEQAvD_BwE&gclsrc=aw.ds)
 
+# Help
+If a link is down go here to obtain all data sheets : [Link for all]()
