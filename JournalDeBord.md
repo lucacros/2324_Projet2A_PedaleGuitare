@@ -3,9 +3,15 @@
 
 ## Table of contents
 
-- [Jolan's Work](#-jolan-s-work)
-- [Camille's Work](#-camille-s-work)
-- [Luca's Work](#-luca-work)
+1. [Séance 1](#séance-1)
+2. [Séance 2](#séance-2)
+3. [Séance 3](#séance-3)
+4. [Séance 4](#séance-4)
+5. [Séance 5](#séance-5)
+6. [Séance 6](#séance-6)
+7. [Séance 7](#séance-7)
+8. [Séance 8](#séance-8)
+9. [Séance 9](#séance-9)
 
 # Jolan's Work
 
