@@ -38,8 +38,9 @@ To better organize our project, we have drawn up a task breakdown with each asso
 
 ## 📁 Branches structure
 
-Project's branches and file structure.
-
+### Mangement Section
+In this section, you'll find everything to do with project management.
+[Link to Project Management Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Management-Project)
 ### 🛠️ Hardware Section
 
 In this section you will find everything relating to the hardware part of the project. Whether it's the hardware, the electrical diagrams and routing, how they work and the types of initialisation and interconnection.
