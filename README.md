@@ -52,9 +52,12 @@ La puissance dissipée dans le composant électronique utilisé en commutation e
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
 </p>
+
+### Switching power supply
 The 17950x78 integrates both the input and output capacitors. Therefore, additional external input/output capacitors are normally not required.
 The additional 100µF capacitor C1 is mounted as termination of the supply line and provides a slight damping of possible oscillations of the series resonance circuit represented by the inductance of the supply line and the input capacitance. This capacitor also prevents voltage overshoot during start up.
 
+### Linear power supply
 
 ## Audio Codec Configuration
 
