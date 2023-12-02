@@ -82,7 +82,8 @@ The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio code
 
 
 
-**From the STM32F446ZCT6 microcontroller to the RAM :**
+### From the RAM
+### From the codec
 
 
 
