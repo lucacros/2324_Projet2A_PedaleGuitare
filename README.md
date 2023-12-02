@@ -11,7 +11,7 @@
 
 # Functional Analysis
 ## Bulls diagram
-## ocotpus diagram
+## octopus diagram
 
 # Organisation du groupe 
 - Méthodes Scrum
