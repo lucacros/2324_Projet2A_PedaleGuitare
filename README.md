@@ -4,9 +4,9 @@
 
 # State of the art
 
-# Requirement definition
-- bete a corne
-- diagramme pieuvre
+# Functional Analysis
+## Bulls diagram
+## ocotpus diagram
 
 # Organisation du groupe 
 - Méthodes Scrum
