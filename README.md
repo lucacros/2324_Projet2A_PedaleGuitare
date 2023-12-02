@@ -4,6 +4,11 @@
 
 # State of the art
 
+- First pedal creat in 1962 by Gibson. It was a Fuuz pedal.
+- In 80s, it's the arrival of the digital pedals.
+- In 90s arrival of multi-effect pedal.
+- In 2000s arrival of audio Plug In. 
+
 # Functional Analysis
 ## Bulls diagram
 ## ocotpus diagram
