@@ -11,6 +11,11 @@
 
 # Functional Analysis
 ## Bulls diagram
+
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Project-Management/img/Diagramme%20bete%20a%20corne.png" alt="Block Diagram" width="600" />
+</p>
+  
 ## octopus diagram
 
 # Organisation du groupe 
