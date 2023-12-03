@@ -4,8 +4,9 @@
 
 # State of the art
 
-- First pedal creat in 1962 by Gibson. It was a Fuuz pedal.
-    This invention came about thanks to the creation of transistors in 1947. This pedal was created to imitate the sound of a trumpet, saxophone or cello.
+- First pedal creat in 1962 by Gibson.
+  It was a Fuuz pedal.
+  This invention came about thanks to the creation of transistors in 1947. This pedal was created to imitate the sound of a trumpet, saxophone or cello.
 - In 80s, it's the arrival of the digital pedals.
    Digital electronics has revolutionised the world of electronic music, because before that there was only analogue electronics.
 - In 90s arrival of multi-effect pedal.
