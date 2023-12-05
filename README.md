@@ -37,7 +37,7 @@ A.R.E = Analog Rear End : Amplifier-Noise attenuation
 We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3.3V. To find out if you need to fit an AFE, you need to measure the signal from your guitar.
 
 <p align="center">
-  <img src="[https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/att.ZSk6oNu2TNIRMZUWemjoR3e5RhZ518ov_QuzrdiQLX0.jpg)" width="600" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/att.ZSk6oNu2TNIRMZUWemjoR3e5RhZ518ov_QuzrdiQLX0.jpg" width="600" />
 </p>
 
 <p align="center">
