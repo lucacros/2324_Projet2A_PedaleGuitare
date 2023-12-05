@@ -3,15 +3,15 @@
 
 ## Table of contents
 
-1. [Séance 1](#séance-1)
-2. [Séance 2](#séance-2)
-3. [Séance 3](#séance-3)
-4. [Séance 4](#séance-4)
-5. [Séance 5](#séance-5)
+1. [Session 1](#session-1)
+2. [Session 2](#session-2)
+3. [Session 3](#session-3)
+4. [Session 4](#session-4)
+5. [Session 5](#session-5)
 6. [Séance 6](#séance-6)
-7. [Séance 7](#séance-7)
-8. [Séance 8](#séance-8)
-9. [Séance 9](#séance-9)
+7. [Session 7](#session-7)
+8. [Session 8](#session-8)
+9. [Session 9](#session-9)
 
 # Jolan's Work
 
@@ -131,3 +131,5 @@ Manufacturing steps :
 ## 03/23
 
 ## 26/09
+
+[Session 1]
