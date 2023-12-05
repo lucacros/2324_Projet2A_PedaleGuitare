@@ -132,4 +132,4 @@ Manufacturing steps :
 
 ## 26/09
 
-[Session 1]
+# Session 1
