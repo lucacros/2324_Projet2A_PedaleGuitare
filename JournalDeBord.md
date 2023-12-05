@@ -8,7 +8,7 @@
 3. [Session 3](#session-3)
 4. [Session 4](#session-4)
 5. [Session 5](#session-5)
-6. [Séance 6](#séance-6)
+6. [Session 6](#session-6)
 7. [Session 7](#session-7)
 8. [Session 8](#session-8)
 9. [Session 9](#session-9)
@@ -153,3 +153,4 @@ Manufacturing steps :
 # Session 10
 
 Nous avons fait notre 3ème présentation pour présenter l'avancement de notre projet. 
+Certaines sont sont à revoir comme la ref d'un régulateur, mettre des JAck de coupure (2 en entrée et 2 en sortie), mettre VDDD à 1,8V. 
