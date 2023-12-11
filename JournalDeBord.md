@@ -3,15 +3,15 @@
 
 ## Table of contents
 
-1. [Session 1](#session-1)
-2. [Session 2](#session-2)
-3. [Session 3](#session-3)
-4. [Session 4](#session-4)
-5. [Session 5](#session-5)
-6. [Session 6](#session-6)
-7. [Session 7](#session-7)
-8. [Session 8](#session-8)
-9. [Session 9](#session-9)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
+- [Session 4](#session-4)
+- [Session 5](#session-5)
+- [Session 6](#session-6)
+- [Session 7](#session-7)
+- [Session 8](#session-8)
+- [Session 9](#session-9)
 
 # Jolan's Work
 
@@ -132,9 +132,38 @@ Manufacturing steps :
 
 ## 26/09
 
-# Session 1
+# Session 1 
+## 19/09
+
+Presentation of 2nd year projects, explanation of grading criteria and expectations.
+
+Allocated budget of €40 per head. Spreadsheet for orders (available soon)
+
+Brainstorming started
+
+I've managed to join the github. (Jolan)
+
+Study of the Supercell module on the RACKV2 software, presented by our mentor Mr. Fiack.
+
+Buffer with 40 read heads (instead of one). With different positions. Each head has a wrapper. The trigg has a density. Pitch at 0 (= delay), pitch at high density (small clicks). Shape changes the shape of the envelope. Density, number of playback heads played.
+
 
 # Session 2
+## 26/09
+### Definition of codec (wiki) : 
+
+A codec is a hardware or software device used to encode or decode a digital data stream for transmission or storage. Some codecs also incorporate a data compression or encryption function.
+The acronym "codec" comes from "coder-decoder".
+
+
+Manufacturing steps : 
+
+- Select components (codec + microprocessor)
+
+- Design the PCB in Kikad
+
+- Code the effect in CubeIDE
+
 
 # Session 3
 
