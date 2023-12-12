@@ -120,3 +120,25 @@ The SAI module (We use SAI2 "SAI A and SAI B" is used to control the audio sourc
 <img width="329" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4ae6f742-591e-4e41-876a-2ac6f6eacfff">
 
 
+We can test an effect implementation with a simple distorsion : 
+```html
+// Distorsion effect
+void distorsion(int16_t*signal, int signalsize, float maxsignal){
+	for(int i=0; i < signalsize; i++){
+		if(signal[i] > maxsignal){
+			signal[i]=  (int16_t)maxsignal;
+		}
+		else if(signal[i]<-maxsignal){
+			signal[i]=(int16_t)(-maxsignal);
+		}
+	}
+}
+```
+
+The results are in : 
+
+<img width="300" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/538e50aa-74e2-4b49-bd4c-2dba29090cdc">
+<img width="300" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/74f90d1e-d500-4b83-a24d-0c070a9a9551)">
+<img width="300" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4e80f478-df2b-446e-9a38-3eac13ed518b">
+
+
