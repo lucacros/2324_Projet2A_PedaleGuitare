@@ -23,7 +23,7 @@
 
 Presentation of 2nd year projects, explanation of grading criteria and expectations.
 
-Allocated budget of €40 per head. Spreadsheet for orders (available soon)
+Allocated budget of €40 per head. Spreadsheet for orders (available soon).
 
 Brainstorming started
 
@@ -143,8 +143,6 @@ Allocated budget of €40 per head. Spreadsheet for orders (available soon)
 
 Brainstorming started
 
-I've managed to join the github. (Jolan)
-
 Study of the Supercell module on the RACKV2 software, presented by our mentor Mr. Fiack.
 
 Buffer with 40 read heads (instead of one). With different positions. Each head has a wrapper. The trigg has a density. Pitch at 0 (= delay), pitch at high density (small clicks). Shape changes the shape of the envelope. Density, number of playback heads played.
@@ -152,6 +150,11 @@ Buffer with 40 read heads (instead of one). With different positions. Each head 
 
 # Session 2
 ## 26/09
+
+We started to research which components we were going to use. 
+We defined the characteristics that the microprocessor of our pedal should have and we chose a microprocessor from the STM32 F4 range.
+To be able to store the audio content we wanted as well as possible, we chose to use RAM connected to the microprocessor.
+
 ### Definition of codec (wiki) : 
 
 A codec is a hardware or software device used to encode or decode a digital data stream for transmission or storage. Some codecs also incorporate a data compression or encryption function.
@@ -170,6 +173,8 @@ Manufacturing steps :
 # Session 3
 ## 3/10
 
+Nous avons fait des mesires sur le signal qu'envoie une guitare pour pouvoir dimenssioné correctement un préampli qui envera le signal de la guitare dans le codec.
+Nous avons à chercher des modèle d'effet de guitare existant pour savoir comment faire un programme pour les coder en C et les implémenter dans le microprocesseur.
 # Session 4
 ## 10/10
 
