@@ -173,10 +173,16 @@ Manufacturing steps :
 # Session 3
 ## 3/10
 
-Nous avons fait des mesires sur le signal qu'envoie une guitare pour pouvoir dimenssioné correctement un préampli qui envera le signal de la guitare dans le codec.
-Nous avons à chercher des modèle d'effet de guitare existant pour savoir comment faire un programme pour les coder en C et les implémenter dans le microprocesseur.
+We measured the signal sent by a guitar to be able to correctly size a preamp that will send the guitar signal to the codec.
+We have to look at existing guitar effect models to find out how to make a programme to code them in C and implement them in the microprocessor.
+
 # Session 4
 ## 10/10
+
+Nous avons fais notre première présentation de l'avanceement de notre projet. 
+Plusieurs choses était à revoir notament la partie avec les régulateur pour alimenter correctement chaque partie de la carte. 
+M.Papazouglou Nous a dit d'utiliser Faust qui est un langage de programation par bloque. Ce language Est fait pour du traitement du signal
+
 
 # Session 5
 ## 17/10
