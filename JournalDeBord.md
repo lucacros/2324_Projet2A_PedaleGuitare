@@ -166,20 +166,31 @@ Manufacturing steps :
 
 
 # Session 3
+## 3/10
 
 # Session 4
+## 10/10
 
 # Session 5
+## 17/10
 
 # Session 6
+## 24/10
 
 # Session 7
+## 07/11
 
 # Session 8
+## 14/11
 
 # Session 9
+## 28/11
 
 # Session 10
+## 05/12
 
 Nous avons fait notre 3ème présentation pour présenter l'avancement de notre projet. 
 Certaines sont sont à revoir comme la ref d'un régulateur, mettre des JAck de coupure (2 en entrée et 2 en sortie), mettre VDDD à 1,8V. 
+
+# Session 11
+## 12/12
