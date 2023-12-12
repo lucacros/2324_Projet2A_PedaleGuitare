@@ -111,3 +111,9 @@ The DMA is working as a large pipe that funnels data from one peripheral to the 
 First, let's display the DAC on the oscilloscop and then we will deduce how display the ADC.
 
 
+
+In our microcontroller and in our audio codec we have special functions available in the STM32 HAL library.
+
+The SAI module is used to control the audio sources. There are callback functions to copy received data or to stop the DMA.
+
+
