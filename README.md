@@ -114,6 +114,9 @@ First, let's display the DAC on the oscilloscop and then we will deduce how disp
 
 In our microcontroller and in our audio codec we have special functions available in the STM32 HAL library.
 
-The SAI module is used to control the audio sources. There are callback functions to copy received data or to stop the DMA.
+The SAI module (We use SAI2 "SAI A and SAI B" is used to control the audio sources. There are callback functions to copy received data or to stop the DMA ( SAI A : transmission and SAI B : reception).
+
+<img width="327" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c26be457-fb9c-453b-bc39-43dbe6c6f6b9">
+<img width="329" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4ae6f742-591e-4e41-876a-2ac6f6eacfff">
 
 
