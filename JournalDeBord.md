@@ -219,6 +219,7 @@ Certaines sont sont à revoir comme la ref d'un régulateur, mettre des JAck de 
 # Session 11
 ## 12/12
 **Distorsion Effect**
+
 <img width="502" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/56dc9778-c453-41e7-9181-0c728028af85">
 
 
