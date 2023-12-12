@@ -12,6 +12,8 @@
 - [Session 7](#session-7)
 - [Session 8](#session-8)
 - [Session 9](#session-9)
+- [Session 10](#session-10)
+- [Session 11](#session-11)
 
 # Jolan's Work
 
@@ -179,6 +181,17 @@ Manufacturing steps :
 
 # Session 7
 ## 07/11
+
+2nd presentation of our progress. (https://1drv.ms/p/s!AhTm1sjPNY-GgjRiXmJ6r0E80x2i?e=7ZnZlr)
+We have to make a lot of changes especially for the component (AOP LM324 has to be replaced by a better one with less distortion).
+For the AOP we choose the MCP6002.
+
+Correction des erreurs du schéma électrique : 
+- modification du circuit d'alimentation
+-> ajout d'un régulateur de découpage
+
+- ajouts de condesateurs de découpage
+- modification du cablage µP/SGTL5000:
 
 # Session 8
 ## 14/11
