@@ -53,6 +53,12 @@ As you can see, the guitar signal is within the value range of the codec and is 
 The block diagram can be simplified.
 Once the block diagram has been constructed, we can adapt it to the components used:
 
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ComponentDiagram.png" width="500" />
+</p>
+
+
+
 ## Power section
 La puissance dissipée dans le composant électronique utilisé en commutation est moindre que lorsqu'il est utilisé en mode linéaire.
     
