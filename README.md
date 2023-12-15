@@ -85,16 +85,13 @@ The additional 100µF capacitor C1 is mounted as termination of the supply line 
 
 The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio codec. Its basic operation involves converting digital audio signals to analog for audio output and converting analog signals to digital for audio input. The essential pins include those for I2S communication, power supply, mode selection, audio input and output connections, as well as control pins to configure the codec based on application requirements.
 
-|   Pins   |   Voltages |  
-|---    |:-:    |    
-|   VDDIO   |   +3.3V   |   
-| VDDD   |   +1.8V  |   
-|  VDDA  |   +3.3V   | 
-
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/powerCodec.png"  width="400" />
+</p>
 
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20codec.png" alt="Codec SGTL5000" width="400" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/codec.png" alt="Codec SGTL5000" width="400" />
 </p>
 
 
@@ -107,7 +104,11 @@ The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio code
 
 ## MicroProcessor Configuration
 
-
+|   Pins   |   Voltages |  
+|---    |:-:    |    
+|   VDDIO   |   +3.3V   |   
+| VDDD   |   +1.8V  |   
+|  VDDA  |   +3.3V   | 
 
 
 
