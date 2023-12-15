@@ -7,9 +7,9 @@ Enjoy your reading ! (Camille L)
 2. [Hardware Specifications](#hardware-specifications)
     1. [Block Diagram](#block-diagram)
     2. [Power Board](#power-section)
-    3. [Audio Codec Configuration](#audio-codec-configuration)
-    4. [RAM Configuration](#ram-configuration)
-    5. [MicroProcessor Configuration (with extern memory: RAM)](#microprocessor-configuration-with-extern-memory-ram)
+    3. [Audio Codec ](#audio-codec)
+    4. [RAM ](#ram)
+    5. [MicroProcessor (with extern memory: RAM)](#microprocessor-with-extern-memory-ram)
 3. [Installation](#installation)
 
 
@@ -73,7 +73,7 @@ The additional 100µF capacitor C1 is mounted as termination of the supply line 
 
 ### Linear power supply
 
-## Audio Codec Configuration
+## Audio Codec 
 
 The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio codec. Its basic operation involvesconverting analog signals to digital for audio input and converting digital audio signals to analog for audio output. The essential pins include those for I2S communication, power supply, mode selection, audio input and output connections, as well as control pins to configure the codec based on application requirements.
 Using the microcontroller, we will control the I2C codec and transmit the signals in I2S.
@@ -110,14 +110,14 @@ The SGTL5000 clock is available at SYS_MCLK. SYS_MCLK must be synchronised with 
 </p>
 
 
-## RAM Configuration
+## RAM 
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="400" />
 </p>
 
 
-## MicroProcessor Configuration
+## MicroProcessor 
 
 |   Pins   |   Voltages |  
 |---    |:-:    |    
