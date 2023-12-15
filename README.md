@@ -89,10 +89,26 @@ The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio code
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/codecSchematic.png" width="500"/>
 </p>
 
+### Power Section
+To begin, we need to supply 2 different voltages: the first +3.3V to supply VDDA (for analogue part) and VDDIO (for Inputs/Outputs) and the second +1.8V to supply VDDD (for digital part).
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/powerCodec.png"  width="500"/>
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/powerCodec.png"  width="600"/>
 </p>
+
+|   Components   |   Voltages |  Descriptor |
+|---    |:-:    |:-:    | 
+|   VDDIO   |   +3.3V   | Power supply controls the digital I/O levels as well as the output level of LINE outputs. | 
+| VDDD   |   +1.8V  | power supply controls the digital I/O levels as well as the output level of LINE outputs   |
+|  VDDA  |   +3.3V   | Power supply is used for the internal analog circuitry including ADC, DAC, LINE inputs, MIC inputs, headphone outputs and reference voltages.|
+
+### Clock Section
+The SGTL5000 clock is available at SYS_MCLK. SYS_MCLK must be synchronised with the sampling rate (Fs) of the I2S port. 
+
+### I2S section
+
+
+
 
 
 <p align="center">
