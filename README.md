@@ -30,27 +30,27 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 </p>
 
 
-A.F.E = Analog Front End : Preamplifier-Noise attenuation
+- A.F.E = Analog Front End : Preamplifier-Noise attenuation
 
-A.R.E = Analog Rear End : Amplifier-Noise attenuation
+- A.R.E = Analog Rear End : Amplifier-Noise attenuation
 
 We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3.3V. To find out if you need to fit an AFE, you need to measure the signal from your guitar.
 
+
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/att.ZSk6oNu2TNIRMZUWemjoR3e5RhZ518ov_QuzrdiQLX0.jpg" width="600" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/att.ZSk6oNu2TNIRMZUWemjoR3e5RhZ518ov_QuzrdiQLX0.jpg" width="400" />
 </p>
-<p align="center"> Signal sent by a guitar </p>
+
+**<p align="center"> Guitar signal </p>**
+
+As you can see, the guitar signal is within the value range of the codec and is important enough not to use AFE and ARE.
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Bloc%20symtem%20optimized.png" alt="Block Diagram Optimized" width="500" />
 </p>
 
-**<p align="center"> Guitar signal </p>**
-<p align="center">
-  <img src="" alt="Guitar signal" width="600" />
-</p>
-
-
+The block diagram can be simplified.
+Once the block diagram has been constructed, we can adapt it to the components used:
 
 ## Power section
 La puissance dissipée dans le composant électronique utilisé en commutation est moindre que lorsqu'il est utilisé en mode linéaire.
