@@ -54,9 +54,19 @@ We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3
 
 ## Power section
 La puissance dissipée dans le composant électronique utilisé en commutation est moindre que lorsqu'il est utilisé en mode linéaire.
+    
+|   Components   |   Voltages |  
+|---    |:-:    |    
+|   MicroProc   |   +3.3V   |   
+|  Codec   |   VDDIO :+3.3V VDDD : +1.8V VDDA : +3.3V  |   
+|   RAM   |   +3.3V   | 
+
+
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
 </p>
+
+Pour obtenir ces niveaux de tensions nous utilisons plusieurs régulateurs de tensions. Le premier régulateur  est un régulateur à découpage
 
 ### Switching power supply
 The 17950x78 integrates both the input and output capacitors. Therefore, additional external input and output capacitors are normally not required.
