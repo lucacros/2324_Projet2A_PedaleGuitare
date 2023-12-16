@@ -89,18 +89,32 @@ To begin, we need to supply 2 different voltages: the first +3.3V to supply VDDA
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/powerCodec.png"  width="600"/>
 </p>
 
-|   Components   |   Voltages |  Descriptor |
+|   Components   |   Voltages |  Description |
 |---    |:-:    |:-    | 
 |   VDDIO   |   +3.3V   | Power supply controls the digital I/O levels as well as the output level of LINE outputs. | 
 | VDDD   |   +1.8V  | power supply controls the digital I/O levels as well as the output level of LINE outputs   |
 |  VDDA  |   +3.3V   | Power supply is used for the internal analog circuitry including ADC, DAC, LINE inputs, MIC inputs, headphone outputs and reference voltages.|
 
 ### Configuration
-#### Clock
-The SGTL5000 clock is available at SYS_MCLK. SYS_MCLK must be synchronised with the sampling rate (Fs) of the I2S port. 
-#### I2C
-#### I2S 
+The codec is clocked at the same frequency as the microprocessor. It communicates via I2C  and transmits its audio data in I2S.
 
+| Label names | Codec Pins name | Description |
+|-------------|-----------------|-------------|
+| **Guitar signal** | | 
+| Ve_guitare_L | LINEIN_L | Left LINEIN | 
+| Vs_guitare_L | LINEOUT_L | Left LINEOUT |
+| Ve_guitare_R | LINEIN_R | Right LINEIN | 
+| Vs_guitare_R | LINEOUT_R |Right LINEOUT |
+| **Clock** | | 
+| SYS_MCLK | SYS_MCLK | System master clock |
+| **I2C** | | 
+| SDA_I2S | CTRL_DATA | Mode: Serial Data |
+| SCL_I2C | CTRL_CLK | Mode: Serial Clock |
+| **I2S** | | 
+| WS_I2S | I2S_LRCLK | Frame clock |
+| CK_I2S | I2S_SCLK | Bit clock |
+| DOUT_I2S | I2S_DOUT | Data output |
+| SD_I2S | I2s_DIN | Data input |
 
 
 
