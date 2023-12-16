@@ -1,3 +1,6 @@
+# Routing table of microprocessor, ram and codec
+[Return to Hardware Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Hardware-Section)
+
 | Nom             | Microprocesseur (STM32F446ZC) | RAM (42-45S16400J )  | Codec (SGTL5000) | Description                                |
 |-----------------|------------------------|-------|-------|--------------------------------------------|
 | BOOT0           | BOOT0                  |       |       | Boot Mode Selection (Microprocessor)       |
