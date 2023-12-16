@@ -225,8 +225,8 @@ Réalisation d'un effet de distorsion sur un microproceseur.
 
 <img width="502" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/56dc9778-c453-41e7-9181-0c728028af85">
 
-Nous avons ajouter des Jack de coupure sur les entrée et les sorties de la pédale ce qui nous permet de mettre 2 jack Mono en entrée et 2 Jacks moni en sortie. 
-Nous avons résolut les dernières erreurs sur le PCB pour ensuite démarrer le routage. 
+We've added switched jacks on the input and output sides of the pedal, so we can use 2 mono jacks on the input side and 2 mono jacks on the output side. 
+The last errors on the schematic have been resolved and the PCB routing can now begin.
 
 
 
