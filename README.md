@@ -133,6 +133,11 @@ The codec is clocked at the same frequency as the microprocessor. It communicate
 
 ## MicroProcessor 
 
+The microprocessor is a crucial component in the guitar pedal system, responsible for controlling various functions, processing audio signals, and managing communication with other components. In this section, we'll delve into the specifications and details related to the microprocessor.
+
+### MicroProcessor Pins
+The microprocessor interacts with other components through various pins. Here are some essential pins and their functions:
+### Power Supply Pins
 |   Pins   |   Voltages |  
 |---    |:-:    |    
 |   VDDIO   |   +3.3V   |   
@@ -141,9 +146,11 @@ The codec is clocked at the same frequency as the microprocessor. It communicate
 
 
 
-### From the RAM
-### From the codec
+### Communication with RAM
+The STM32F446ZC communicates with the RAM to handle memory operations. RAM is crucial for storing and accessing data during signal processing.
 
+### Communication with Audio Codec
+The microprocessor communicates with the audio codec (SGTL5000) using I2C for control and I2S for audio data transmission. The codec is responsible for converting analog signals to digital and vice versa.
 
 
 <p align="center">
