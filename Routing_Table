@@ -72,4 +72,4 @@
 | SDA_I2S         |                        |       | I2S_DIN | Data input (Codec)                     |
 | SCL_I2S         |                        |       | I2S_SCLK | Bit clock (Codec)                     |
 | WS_I2S          |                        |       | I2S_LRCLK | Frame clock (Codec)                   |
-| CK_I2S          |                        |       |           | (Codec)                                |
+
