@@ -9,7 +9,7 @@ Enjoy your reading ! (Camille L)
     2. [Power Board](#power-section)
     3. [Audio Codec ](#audio-codec)
     4. [RAM ](#ram)
-    5. [MicroProcessor (with extern memory: RAM)](#microprocessor-with-extern-memory-ram)
+    5. [MicroProcessor](#microprocessor)
 3. [Installation](#installation)
 
 
