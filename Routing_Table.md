@@ -1,7 +1,7 @@
-| Nom             | Microprocesseur (STM32F446ZC) | RAM   | Codec | Description                                |
+| Nom             | Microprocesseur (STM32F446ZC) | RAM (42-45S16400J )  | Codec (SGTL5000) | Description                                |
 |-----------------|------------------------|-------|-------|--------------------------------------------|
-| BOOT0           | BOOT0                  |       |       | Boot Mode Selection (Microprocessor)        |
-| NRST            | NRST                   |       |       | Reset (Microprocessor)                      |
+| BOOT0           | BOOT0                  |       |       | Boot Mode Selection (Microprocessor)       |
+| NRST            | NRST                   |       |       | Reset (Microprocessor)                     |
 | P0              | PA0                    |       |       | General Purpose I/O (Microprocessor)       |
 | P1              | PA1                    |       |       | General Purpose I/O (Microprocessor)       |
 | SWDIO           | PA13                   |       |       | SWD Debug I/O (Microprocessor)             |
