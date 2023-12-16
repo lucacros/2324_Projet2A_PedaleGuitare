@@ -197,12 +197,12 @@ M.Papazouglou Nous a dit d'utiliser Faust qui est un langage de programation par
 We have to make a lot of changes especially for the component (AOP LM324 has to be replaced by a better one with less distortion).
 For the AOP we choose the MCP6002.
 
-Correction des erreurs du schéma électrique : 
-- modification du circuit d'alimentation
--> ajout d'un régulateur de découpage
+Correction of wiring diagram errors : 
+- modification of the power supply circuit
+-> addition of a switching regulator
 
-- ajouts de condesateurs de découpage
-- modification du cablage µP/SGTL5000:
+- addition of switching regulators
+- modification of µP/SGTL5000 wiring:
 
 # Session 8
 ## 14/11
