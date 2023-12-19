@@ -10,6 +10,8 @@ Enjoy your reading ! (Camille L)
     3. [Audio Codec ](#audio-codec)
     4. [RAM ](#ram)
     5. [MicroProcessor](#microprocessor)
+    6. [Connectors](#connectors)
+        - [Jack connecting](#Jack-connecting)
 3. [Installation](#installation)
 
 
@@ -126,13 +128,6 @@ The codec is clocked at the same frequency as the microprocessor. It communicate
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/codec.png" alt="Codec SGTL5000" width="400" />
 </p>
 
-## Jack connecting
-
-We use Jack switched for the input and the output of the guitar. 
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Jack.png" width="400" />
-</p>
-
 ## RAM 
 For the granular effect, we need to store part of the sound that the guitar sends and read this sound. The RAM on the CPU was not enough to store all the information we needed, so we decided to use an external RAM.
 To use the RAM we need to connect the Address pin to the CPU to send the information of which memory address we want to access in the RAM. The Data pin is used to send the information stored in the RAM to the CPU.
@@ -169,7 +164,15 @@ The microprocessor communicates with the audio codec (SGTL5000) using I2C for co
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png" alt="µP" width="400" />
 </p>
-  
+
+## Connectors
+### Jack connecting
+
+We use Jack switched for the input and the output of the guitar. 
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Jack.png" width="400" />
+</p>
+
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
