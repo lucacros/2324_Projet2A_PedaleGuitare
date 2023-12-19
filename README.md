@@ -30,9 +30,12 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 
 We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3.3V. To find out if you need to fit an AFE, you need to measure the signal from your guitar.
 
+We have measured the maximum voltage output of a guitar to check if you need an AFE or not.
+
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/att.ZSk6oNu2TNIRMZUWemjoR3e5RhZ518ov_QuzrdiQLX0.jpg" width="400" />
 </p>
+
 
 **<p align="center"> Guitar signal </p>**
 
