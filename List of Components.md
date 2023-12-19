@@ -14,8 +14,9 @@
   - 2 x Capacitor of 100µF.
   - 1 x Capacitor of 10µF.
   - 1 x Capacitor of 1µF
-  - Regulator 173950578
-  - Regulator LM7805_TO220 : [Link to data sheet](https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF)
+  - Regulator 173950578 :
+  - Linear Regulator 5V/3.3V :
+  - Linear Regulator 3.3V/1.8V :
   - DC plug 4840.2201 :
 
     
