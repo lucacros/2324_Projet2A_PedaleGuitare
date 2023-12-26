@@ -171,7 +171,7 @@ Certaines sont sont à revoir comme la ref d'un régulateur, mettre des JAck de 
 ## Session 11
 ### 12/12
 
-Réalisation d'un effet de distorsion sur un microproceseur.
+Creation of a simple distortion effect to validate codec manipulation
 
 **Distorsion Effect**
 
