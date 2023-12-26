@@ -162,6 +162,8 @@ Correction of wiring diagram errors :
 ## Session 9
 ### 28/11
 
+Manipulation of the ADC and DAC to recover our audio input and output on stm32cubeIDE. The purpose of this is to prepare for handling the CODEC
+
 ## Session 10
 ### 05/12
 
