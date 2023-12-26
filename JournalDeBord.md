@@ -139,8 +139,12 @@ M.Papazouglou Nous a dit d'utiliser Faust qui est un langage de programation par
 ## Session 5
 ### 17/10
 
+Approach to the Faust programming language
+
 ## Session 6
 ### 24/10
+
+Creating a digital effect in Faust and converting it to a .c file
 
 ## Session 7
 ### 07/11
@@ -158,6 +162,8 @@ Correction of wiring diagram errors :
 
 ## Session 8
 ### 14/11
+
+Codec, ADC, DAC and DMA documentation
 
 ## Session 9
 ### 28/11
