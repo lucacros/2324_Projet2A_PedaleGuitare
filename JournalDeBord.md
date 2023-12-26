@@ -186,4 +186,6 @@ The last errors on the schematic have been resolved and the PCB routing can now 
 
 Continued PCB
 
+Github update
+
 
