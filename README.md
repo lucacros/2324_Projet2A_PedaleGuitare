@@ -27,7 +27,7 @@
   
 ## Spider diagram
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Project-Management/img/Capture%20d’écran%202023-12-28%20à%2017.49.26.png" width="600" />
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Project-Management/img/Spider%20diagram.png" width="600" />
 </p>
 
 ## Specifications 
