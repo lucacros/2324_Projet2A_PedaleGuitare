@@ -173,6 +173,12 @@ We use Jack switched for the input and the output of the guitar.
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Jack.png" width="400" />
 </p>
 
+## Buffer Button
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Buffer%20button.png" width="400" />
+</p>
+
+
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
