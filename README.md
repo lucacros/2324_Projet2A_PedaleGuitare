@@ -12,6 +12,7 @@ Enjoy your reading ! (Camille L)
     5. [MicroProcessor](#microprocessor)
     6. [Connectors](#connectors)
         - [Jack connecting](#Jack-connecting)
+    7. [Buffer-Button](#Buffer-Button)
 3. [Installation](#installation)
 
 
@@ -173,7 +174,7 @@ We use Jack switched for the input and the output of the guitar. The switched Ja
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Jack.png" width="400" />
 </p>
 
-## Buffer Button
+## Buffer-Button
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Buffer%20button.png" width="400" />
 </p>
