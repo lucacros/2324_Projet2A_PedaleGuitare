@@ -57,7 +57,7 @@ Once the block diagram has been constructed, we can adapt it to the components u
 
 
 ## Power section
-La puissance dissipée dans le composant électronique utilisé en commutation est moindre que lorsqu'il est utilisé en mode linéaire.
+The power dissipated in the electronic component used in switching mode is lower than when used in linear mode.
     
 |   Components   |   Voltages |  
 |---    |:-:    |    
@@ -70,7 +70,7 @@ La puissance dissipée dans le composant électronique utilisé en commutation e
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
 </p>
 
-Pour obtenir ces niveaux de tensions nous utilisons plusieurs régulateurs de tensions. Le premier régulateur  est un régulateur à découpage
+To obtain these voltage levels, we use several voltage regulators. The first regulator is a switching regulator to go from 12V to 5V and then we use 2 linear regulators to obtain 3.3V and 1.8V. We first use a switching regulator to go from 12V to 5V, because switching regulators are more efficient than linear regulators when the voltage difference between input and output is high. We then use linear regulators to achieve low thermal output.
 
 ### Switching power supply
 The 17950x78 integrates both the input and output capacitors. Therefore, additional external input and output capacitors are normally not required.
