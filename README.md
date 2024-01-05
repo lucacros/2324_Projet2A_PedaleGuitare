@@ -168,7 +168,7 @@ The microprocessor communicates with the audio codec (SGTL5000) using I2C for co
 ## Connectors
 ### Jack connecting
 
-We use Jack switched for the input and the output of the guitar. 
+We use Jack switched for the input and the output of the guitar. The switched Jack allow us to have the choice between a mono-input or a stereo input and a mono-output and a stereo-output. 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Jack.png" width="400" />
 </p>
@@ -178,6 +178,7 @@ We use Jack switched for the input and the output of the guitar.
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Buffer%20button.png" width="400" />
 </p>
 
+We use a buffer button to store a part of the sound of the guitar to apply several effects to it. It's one of the several options that offer the granular effect.
 
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
