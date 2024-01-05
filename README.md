@@ -181,6 +181,11 @@ We use Jack switched for the input and the output of the guitar. The switched Ja
 
 We use a buffer button to store a part of the sound of the guitar to apply several effects to it. It's one of the several options that offer the granular effect.
 
+## Potentiometers
+<p align="center">
+  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/audio%20effects%20potentiometers.png" width="400" />
+</p>
+
 ## 💻 Installation
 I recommend downloading the latest version of **KiCad** to reproduce the electronic board. For simulating amplifiers, consider using **Cadence Pspice** or **Microcap**. Use the **STCUBEIDE** software for programming the codec and microprocessor.
 
