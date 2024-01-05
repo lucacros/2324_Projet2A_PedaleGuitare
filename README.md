@@ -78,6 +78,7 @@ The 17950x78 integrates both the input and output capacitors. Therefore, additio
 The additional 100µF capacitor C1 is mounted as termination of the supply line and provides a slight damping of possible oscillations of the series resonance circuit represented by the inductance of the supply line and the input capacitance. This capacitor also prevents voltage overshoot during start up. the capacitor C3 allows fine tuning of load transcient voltage response.
 
 ### Linear power supply
+We use linear regulators to transform 5V to 3.3V and 3.3V to 1.8V, as they give us a very clean output. Capacitors C4, C5 and C6 provide a more constant output and therefore limit the voltage and current variations created by the regulator. 
 
 ## Audio Codec 
 
