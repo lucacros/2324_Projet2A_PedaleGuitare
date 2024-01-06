@@ -105,14 +105,15 @@ Research and documentation on the operation of the Codec, ADC,DAC and DMA so tha
 ## Session 9
 ### 28/11
 
-
-Manipulation of the ADC and DAC to recover our audio input and output on stm32cubeIDE. The purpose of this is to prepare for handling the CODEC
+Correction of the errors of the schematic on KiCad to prepare the rooting.
+Manipulation of the ADC and DAC to recover our audio input and output on stm32cubeIDE. The purpose of this is to prepare for handling the CODEC.
 
 ## Session 10
 ### 05/12
 
-Nous avons fait notre 3ème présentation pour présenter l'avancement de notre projet. 
-Certaines parties sont à revoir comme la reférence d'un régulateur, mettre des JAck de coupure (2 en entrée et 2 en sortie) pour pouvoir aver du stéréo en entrée et en sortie et ajouter une tension VDDD à 1,8V. 
+We made our 3rd presentation to show the progress of our project. 
+Some parts need to be revised, such as the reference for a regulator, adding mute jacks (2 at the input and 2 at the output) to be able to warn stereo at the input and output, and adding a VDDD voltage of 1.8V. 
+https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/main/2324_Projet2A_PedaleGuitare_Présentation_05-12-23.pdf
 
 ## Session 11
 ### 12/12
@@ -124,14 +125,14 @@ Creation of a simple distortion effect to validate codec manipulation
 <img width="502" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/56dc9778-c453-41e7-9181-0c728028af85">
 
 We've added switched jacks on the input and output sides of the pedal, so we can use 2 mono jacks on the input side and 2 mono jacks on the output side. 
+We design some component that are not in the library of KiCad like the footswitch of the buffer.
 The last errors on the schematic have been resolved and the PCB routing can now begin.
 
 
 ## Session 12
 ### 19/12
 
-Continued PCB
-
- - Github update (formatting)
+Continued rooting of the PCB.
+We update update the Github to have all our work up to date on the Github.
 
 
