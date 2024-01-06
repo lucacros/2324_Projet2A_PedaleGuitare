@@ -98,11 +98,13 @@ Correction of wiring diagram errors :
 ## Session 8
 ### 14/11
 Design of the Buffer boton and research for the component. 
+
 Research and documentation on the operation of the Codec, ADC,DAC and DMA so that we can integrate it as effectively as possible into our pedal.
 
 
 ## Session 9
 ### 28/11
+
 
 Manipulation of the ADC and DAC to recover our audio input and output on stm32cubeIDE. The purpose of this is to prepare for handling the CODEC
 
@@ -110,7 +112,7 @@ Manipulation of the ADC and DAC to recover our audio input and output on stm32cu
 ### 05/12
 
 Nous avons fait notre 3ème présentation pour présenter l'avancement de notre projet. 
-Certaines sont sont à revoir comme la ref d'un régulateur, mettre des JAck de coupure (2 en entrée et 2 en sortie), mettre VDDD à 1,8V. 
+Certaines parties sont à revoir comme la reférence d'un régulateur, mettre des JAck de coupure (2 en entrée et 2 en sortie) pour pouvoir aver du stéréo en entrée et en sortie et ajouter une tension VDDD à 1,8V. 
 
 ## Session 11
 ### 12/12
