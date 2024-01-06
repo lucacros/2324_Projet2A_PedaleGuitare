@@ -98,7 +98,7 @@ Correction of wiring diagram errors :
 ## Session 8
 ### 14/11
 Design of the Buffer boton and research for the component. 
-
+Modification of the KiCad schematic according to our teachers intrutions.
 Research and documentation on the operation of the Codec, ADC,DAC and DMA so that we can integrate it as effectively as possible into our pedal.
 
 
