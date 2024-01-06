@@ -70,7 +70,9 @@ https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/main/2324_Projet2A_
 ## Session 5
 ### 17/10
 
-Approach to the Faust programming language
+Design of the pedal's preamplifier on a simulation software. We opted for a non-inverting circuit. 
+Start of the design of the codec and microcontroller on Kicad.
+Approaching the Faust programming language.
 
 
 ## Session 6
