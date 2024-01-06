@@ -98,8 +98,8 @@ Correction of wiring diagram errors :
 ## Session 8
 ### 14/11
 Design of the Buffer boton and research for the component. 
-Implementation of a new linear regulator to obtain 1.8V
-Codec, ADC, DAC and DMA documentation
+Research and documentation on the operation of the Codec, ADC,DAC and DMA so that we can integrate it as effectively as possible into our pedal.
+
 
 ## Session 9
 ### 28/11
