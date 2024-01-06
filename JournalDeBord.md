@@ -61,11 +61,10 @@ We have to look at existing guitar effect models to find out how to make a progr
 ## Session 4
 ### 10/10
 
-Nous avons fais notre première [Présentation](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/main/2324_Projet2A_PedaleGuitare_Présentation_10-10-23.ppt)
-de l'avanceement de notre projet. 
-Plusieurs choses était à revoir notament la partie avec les régulateur pour alimenter correctement chaque partie de la carte. 
-M.Papazouglou Nous a dit d'utiliser Faust qui est un langage de programation par bloque. Ce language Est fait pour du traitement du signal
-
+We gave our first presentation on the progress of our project. 
+Several things needed to be reviewed, including the part with the regulators to feed each part of the board correctly. 
+M.Papazouglou told us to use Faust, which is a block programming language. This language is designed for signal processing.
+https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/main/2324_Projet2A_PedaleGuitare_Présentation_10-10-23.pptx
 
 
 ## Session 5
