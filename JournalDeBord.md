@@ -71,14 +71,15 @@ https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/main/2324_Projet2A_
 ### 17/10
 
 Design of the pedal's preamplifier on a simulation software. We opted for a non-inverting circuit. 
-Start of the design of the codec and microcontroller on Kicad.
+Start of the design of the codec and microprocessor on Kicad.
 Approaching the Faust programming language.
 
 
 ## Session 6
 ### 24/10
 
-Creating a digital effect in Faust and converting it to a .c file
+Continuation of the PCB Design. Check that all pins are connected correctly on the microprocessor.
+Creating a digital effect in Faust like reverb or distortion and converting it to a .c file
 
 ## Session 7
 ### 07/11
