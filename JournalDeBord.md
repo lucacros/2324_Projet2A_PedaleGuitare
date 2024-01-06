@@ -71,7 +71,7 @@ https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/main/2324_Projet2A_
 ### 17/10
 
 Design of the pedal's preamplifier on a simulation software. We opted for a non-inverting circuit. 
-Start of the design of the codec and microprocessor on Kicad.
+Start of the design of the codec, RAM and microprocessor on Kicad.
 Approaching the Faust programming language.
 
 
@@ -97,7 +97,8 @@ Correction of wiring diagram errors :
 
 ## Session 8
 ### 14/11
-
+Design of the Buffer boton and research for the component. 
+Implementation of a new linear regulator to obtain 1.8V
 Codec, ADC, DAC and DMA documentation
 
 ## Session 9
