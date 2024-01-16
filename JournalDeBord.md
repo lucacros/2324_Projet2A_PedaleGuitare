@@ -135,4 +135,8 @@ The last errors on the schematic have been resolved and the PCB routing can now 
 Continued rooting of the PCB.
 We update update the Github to have all our work up to date on the Github.
 
+## 16/01
+
+Réunion pour faire un point des réalisations et des objectifs à atteindre lors du 2ème semestre.
+
 
