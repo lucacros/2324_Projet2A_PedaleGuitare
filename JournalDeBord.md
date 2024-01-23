@@ -135,7 +135,15 @@ The last errors on the schematic have been resolved and the PCB routing can now 
 Continued rooting of the PCB.
 We update update the Github to have all our work up to date on the Github.
 
+## Session 13
 ## 16/01
 
 Réunion pour faire un point des réalisations et des objectifs à atteindre lors du 2ème semestre.
-Remaniement et ajustement du pcb 
+Remaniement et ajustement du pcb.
+Début de la conception de la boite qui va acceuillir le PCB de la pédale.
+
+## Session 14
+## 23/01
+
+Amélioration du design de la boite. Le système de tiroir pour venir fermé la boite n'est pas assez adapté.
+
