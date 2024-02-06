@@ -39,5 +39,5 @@ For more precision we can fix : HAL_Delay(100) to wait 0,1s beetween each readVa
 We can see that readValue is in [0;4095]
 
 >[!TIP]
-> Now, we can use POtentiometers to control our effect values !!
+> Now, we can use Potentiometers to control our effect values !!
 
