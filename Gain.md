@@ -13,4 +13,6 @@ Therefore, we can code the convertion below :
 
 
 > [!WARNING]  
-> Please note that the implementation of the code requires careful attention to be paid to the types of values. The audio IN/OUT signal is an integer, but the gain will be a float 
+> Please note that the implementation of the code requires careful attention to be paid to the types of values. The audio IN/OUT signal is an integer, but the gain will be a float
+
+Then all we have to do is implement a program which applies the multiplication between the input signal and the gain to the output signal before 
