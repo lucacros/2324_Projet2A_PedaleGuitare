@@ -1,4 +1,4 @@
-##Potentiometer
+## Potentiometer
 
 To control certain values manually, we add potentiometers to our pedals.
 
