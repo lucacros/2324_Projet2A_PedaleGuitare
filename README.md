@@ -78,11 +78,11 @@ The additional 100µF capacitor C1 is mounted as termination of the supply line 
 
 ### Linear power supplies
 We use 3 linear regulators to lower the voltage to very clean outputs.
-<p align="center"><img src="img/order1.png"width="500"height="280"></p>
+<p align="center"><img src="img/Linear_supply_3V.png"width="500"height="280"></p>
 - 5V to 3.3V, for every components.
-<p align="center"><img src="img/order1.png"width="500"height="280"></p>
+<p align="center"><img src="img/Linear_supply_vdda.png.png"width="500"height="280"></p>
 - 5V into 3.3VA, to supply the analog part.
-<p align="center"><img src="img/order1.png"width="500"height="280"></p>
+<p align="center"><img src="img/Linear_supply_1V8.png"width="500"height="280"></p>
 - 3.3V to 1.8V, for the audio codec.
 
 
