@@ -6,7 +6,7 @@ Enjoy your reading ! (Camille L)
 1. [List of components](#list-of-components)
 2. [Hardware Specifications](#hardware-specifications)
     1. [Block Diagram](#block-diagram)
-    2. [Power Board](#power-section)
+    2. [Power Supply](#power-supply)
     3. [Audio Codec ](#audio-codec)
     4. [RAM ](#ram)
     5. [MicroProcessor](#microprocessor)
@@ -57,7 +57,7 @@ Once the block diagram has been constructed, we can adapt it to the components u
 
 
 
-## Power section
+## Power supply
 The power dissipated in the electronic component used in switching mode is lower than when used in linear mode.
     
 |   Components   |   Voltages |  
