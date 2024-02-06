@@ -31,3 +31,5 @@ Debug and open the SWV Data Trace Timeline Graph window to see in real time the 
 ![graphe](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/ba611ae1-937d-473d-a57a-efa79942d2eb)
 
 We can see that readValue is in [0;4095]
+
+We need to control the Gain, wich is a value in [0;1]. Therefore, **Gain = readValue * 1/4095**
