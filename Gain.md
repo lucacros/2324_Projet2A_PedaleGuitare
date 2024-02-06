@@ -8,7 +8,7 @@ We need to control the Volume wich is a float value in [0;1] with a potentiomete
 
 Therefore, we can code the convertion below : 
 
-**Volume = readValue * 1/4095** 
+**Gain = readValue * 1/4095** 
 
 > [!WARNING]  
 > Please note that the implementation of the code requires careful attention to be paid to the types of values. The audio IN/OUT signal is an integer, but the gain will be a float
