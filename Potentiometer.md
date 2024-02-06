@@ -38,4 +38,6 @@ For more precision we can fix : HAL_Delay(100) to wait 0,1s beetween each readVa
 
 We can see that readValue is in [0;4095]
 
-We need to control the Gain, wich is a value in [0;1]. Therefore, **Gain = readValue * 1/4095**
+>[!TIP]
+> Now, we can use POtentiometers to control our effect values !!
+
