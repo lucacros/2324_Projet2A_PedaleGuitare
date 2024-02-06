@@ -67,9 +67,7 @@ The power dissipated in the electronic component used in switching mode is lower
 |   RAM   |   +3.3V   | 
 
 
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/power%20section.png" alt="Power section" width="500" />
-</p>
+
 
 To obtain these voltage levels, we use several voltage regulators. The first regulator is a switching regulator to go from 12V to 5V and then we use 2 linear regulators to obtain 3.3V and 1.8V. We first use a switching regulator to go from 12V to 5V, because switching regulators are more efficient than linear regulators when the voltage difference between input and output is high. We use linear regulators because they give a very clean output, with a minimum of noise.
 
@@ -80,8 +78,11 @@ The additional 100µF capacitor C1 is mounted as termination of the supply line 
 
 ### Linear power supplies
 We use 3 linear regulators to lower the voltage to very clean outputs.
+<p align="center"><img src="img/order1.png"width="500"height="280"></p>
 - 5V to 3.3V, for every components.
+<p align="center"><img src="img/order1.png"width="500"height="280"></p>
 - 5V into 3.3VA, to supply the analog part.
+<p align="center"><img src="img/order1.png"width="500"height="280"></p>
 - 3.3V to 1.8V, for the audio codec.
 
 
