@@ -70,6 +70,8 @@ To implement an effect, I will follow these three steps:
 ### 🕡 Control of the Parameters 
 First of all, let's take control of the parameters to be modified using a potentiometer.
 
+![image](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/5295c00e-992b-41df-aa7a-80b61a0b555f)
+
 We describe the ** B10K potentiometer utilisation** HERE
 ### 🔊 A Simple Reverb
 #### 🔊 Faust
