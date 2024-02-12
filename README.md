@@ -83,7 +83,7 @@ We describe the **B10K potentiometer utilisation**  : [Potentiometer Utilisation
 
 The first parameter to control before moving on to the effects is the OUTPUT VOLUME of our pedal. 
 
-Here's how it's implemented: [Volume Notice](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/volume.md)
+Here's how it's implemented: [Volume Notice](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/Gain.md)
 
 ### 🤖 The First Effect : A Simple Distorsion
 
