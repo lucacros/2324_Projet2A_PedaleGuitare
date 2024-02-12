@@ -17,7 +17,8 @@ First, we find an increase combinaison for the potentiometer :
 // Distorsion Gain
 		GainDisto = 1 + 3*Gain;
 ```
-We can observe it in STM32CubeIDE: 
+We can observe it in STM32CubeIDE: // a modifier
+
 ![Graphe Disto](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/a6a2114c-e499-4bba-b372-0d7809c1e262)
 
 
