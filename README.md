@@ -51,7 +51,7 @@ The block diagram can be simplified.
 Once the block diagram has been constructed, we can adapt it to the components used:
 
 <p align="center">
-  <img src="img/ComponentDiagram.png" width="500" />
+  <img src="img/ComponentDiagram.png" width="700" />
 </p>
 
 
@@ -93,7 +93,7 @@ The SGTL5000 is a digital-to-analog (DAC) and analog-to-digital (ADC) audio code
 Using the microcontroller, we will control the I2C codec and transmit the signals in I2S.
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/codecSchematic.png" width="500"/>
+  <img src="img/codecSchematic.png" width="500"/>
 </p>
 
 ### Power Section
