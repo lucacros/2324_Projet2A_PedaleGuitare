@@ -45,7 +45,7 @@ The simulation of the long-term effects of sound propagation in enclosures is al
 
 ## 🔧 Which programming language ?
 
-After trying to code an IN/OUT audio in C/C++ with the "portaudio" library, I was pushed by my professor on the Faust language way... 
+Trying to code an IN/OUT audio in C/C++ seems difficult for a complex effect, I was pushed by my professor on the Faust language way... 
 Create or reuse the existing effects? We will see
 
 ### 🔊 FAUST
