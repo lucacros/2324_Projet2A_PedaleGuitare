@@ -24,9 +24,8 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 
 # Hardware Specifications
 ## Block Diagram
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png" width="600" /> </p>
-  
+<p align="center"><img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png" width="600" /> </p>
+
 **<p align="center">Diagram system overview</p>**
 - A.F.E = Analog Front End : Preamplifier-Noise attenuation
 - A.R.E = Analog Rear End : Amplifier-Noise attenuation
@@ -52,7 +51,7 @@ The block diagram can be simplified.
 Once the block diagram has been constructed, we can adapt it to the components used:
 
 <p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ComponentDiagram.png" width="500" />
+  <img src="img/ComponentDiagram.png" width="500" />
 </p>
 
 
