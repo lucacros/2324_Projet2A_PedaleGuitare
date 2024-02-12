@@ -1,5 +1,5 @@
 # Software-Section 💻 
-The software is a lung of our pedal concept because of its numerical aspect. In fact, in the forest of musical effects, we decide to implement two Numeric **Audio Effects** : 
+The software is a lung of our pedal concept because of its numerical aspect. In fact, in the forest of musical effects, we decide to implement Numeric **Audio Effects** : 
 
 <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/img/Musiceffecttree.png" alt="Music Effect Tree" width="1000" />
 Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
