@@ -100,10 +100,6 @@ Using the microcontroller, we will control the I2C codec and transmit the signal
 ### Power Section
 To begin, we need to supply 2 different voltages: the first +3.3V to supply VDDA (for analogue part) and VDDIO (for Inputs/Outputs) and the second +1.8V to supply VDDD (for digital part).
 
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/powerCodec.png"  width="600"/>
-</p>
-
 |   Components   |   Voltages |  Description |
 |---    |:-:    |:-    | 
 |   VDDIO   |   +3.3V   | Power supply controls the digital I/O levels as well as the output level of LINE outputs. | 
@@ -131,27 +127,12 @@ The codec is clocked at the same frequency as the microprocessor. It communicate
 | DOUT_I2S | I2S_DOUT | Data output |
 | SD_I2S | I2s_DIN | Data input |
 
-
-
-
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/codec.png" alt="Codec SGTL5000" width="400" />
-</p>
-
 ## RAM 
 For the granular effect, we need to store part of the sound that the guitar sends and read this sound. The RAM on the CPU was not enough to store all the information we needed, so we decided to use an external RAM.
 To use the RAM we need to connect the Address pin to the CPU to send the information of which memory address we want to access in the RAM. The Data pin is used to send the information stored in the RAM to the CPU.
 We have connected the RAM clock to the CPU clock so that the RAM and CPU work at the same speed.
-
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/ram.png" alt="RAM" width="400" />
-</p>
-
-
 ## MicroProcessor 
-
 The microprocessor is a crucial component in the guitar pedal system, responsible for controlling various functions, processing audio signals, and managing communication with other components. In this section, we'll delve into the specifications and details related to the microprocessor.
-
 ### MicroProcessor Pins
 The microprocessor interacts with other components through various pins. Here are some essential pins and their functions:
 ### Power Supply Pins
@@ -160,7 +141,6 @@ The microprocessor interacts with other components through various pins. Here ar
 |   VDDIO   |   +3.3V   |   
 | VDDD   |   +1.8V  |   
 |  VDDA  |   +3.3V   | 
-
 ### Communication with RAM
 The STM32F446ZC communicates with the RAM to handle memory operations. RAM is crucial for storing and accessing data during signal processing.
 ### Communication with Audio Codec
