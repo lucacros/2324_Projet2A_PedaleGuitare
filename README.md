@@ -67,7 +67,10 @@ To implement an effect, I will follow these three steps:
 - User interface
 - Tests and adjustments
 
+### 🕡 Control of the Parameters 
+First of all, let's take control of the parameters to be modified using a potentiometer.
 
+We describe the ** B10K potentiometer utilisation** HERE
 ### 🔊 A Simple Reverb
 #### 🔊 Faust
 How do you code in Faust? Go to https://faustide.grame.fr/
