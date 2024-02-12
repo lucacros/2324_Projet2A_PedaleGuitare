@@ -161,20 +161,11 @@ The microprocessor interacts with other components through various pins. Here ar
 | VDDD   |   +1.8V  |   
 |  VDDA  |   +3.3V   | 
 
-
-
 ### Communication with RAM
 The STM32F446ZC communicates with the RAM to handle memory operations. RAM is crucial for storing and accessing data during signal processing.
-
 ### Communication with Audio Codec
 The microprocessor communicates with the audio codec (SGTL5000) using I2C for control and I2S for audio data transmission. The codec is responsible for converting analog signals to digital and vice versa.
-
 - [Link to the Routing table](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/Routing_Table.md)
-
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/STM32.png" alt="µP" width="400" />
-</p>
-
 ## Connectors
 ### Jack connecting
 We use Jack switched for the input and the output of the guitar. The switched Jack allow us to have the choice between a mono-input or a stereo input and a mono-output and a stereo-output. 
