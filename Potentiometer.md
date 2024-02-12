@@ -1,6 +1,9 @@
 ## Potentiometer
 
-To control certain values manually, we add potentiometers to our pedals.
+To control certain values manually, we add B10K potentiometers to our pedals.
+
+![image](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c289282e-a62e-4e69-8c3a-eb2562c88394)
+
 
 <img width="421" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/3ec18678-1fd0-4ac5-968e-900003f7dcac">
 
