@@ -103,7 +103,7 @@ To begin, we need to supply 2 different voltages: the first +3.3V to supply VDDA
 |---    |:-:    |:-    | 
 |   VDDIO   |   +3.3V   | Power supply controls the digital I/O levels as well as the output level of LINE outputs. | 
 | VDDD   |   +1.8V  | power supply controls the digital I/O levels as well as the output level of LINE outputs   |
-|  VDDA  |   +3.3V   | Power supply is used for the internal analog circuitry including ADC, DAC, LINE inputs, MIC inputs, headphone outputs and reference voltages.|
+|  VDDA  |   +3.3VA   | Power supply is used for the internal analog circuitry including ADC, DAC, LINE inputs, MIC inputs, headphone outputs and reference voltages.|
 
 ### Configuration
 The codec is clocked at the same frequency as the microprocessor. It communicates via I2C  and transmits its audio data in I2S.
