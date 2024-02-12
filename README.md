@@ -87,6 +87,10 @@ Here's how it's implemented: [Volume Notice](https://github.com/lucacros/2324_Pr
 
 ### 🤖 The First Effect : A Simple Distorsion
 
+To write this first effect in C, we chose to implement a distortion. 
+
+Based on the definition of a Max value and a clipping (see [Distortion Notice](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/Distorsion.md)) in relation to it, we can add this first effect to our work! ✅
+
 
 
 ### 🔊 A Simple Reverb
