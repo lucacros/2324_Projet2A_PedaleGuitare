@@ -9,41 +9,47 @@ Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
 - Audio Effect → Space → Room → Echo → **Granular Delay**
 
 
-## 📖 Table of contents
-- [🛠 Musical Effects](#-musical-effects)
-  - 🎶 Reverberation
-  - 🎛️ Granular Delay
+# 📖 Table of contents
+- [🛠 Get audio Output/Input](#-get-audio-output/input)
+  - DMA 
+  - ADC/DAC
+  - CODEC
 - [🔧 Which programming language ? ](#-which-programming-language-?)
   - 🔊 FAUST
 - [💻  Implementation](#-implementation)
   - 🕡 Control of the Parameters
   - 🔊 Volume Potentiometer
   - 🤖 The First Effect : A Simple Distorsion
-  - 
-## 🛠 Musical Effects
+  - 🎶 Reverberation
+  - 🎛️ Granular Delay
+    
+# 🛠 Get audio Output/Input
 
-Explaining how we built our effects, understanding the physics of signal modulation, modifications.
+## DMA
 
-### 🎶 Reverberation
+We start coding on STM32CubeIDE
 
-**What do we want from a Reverb ?** 
+To Capture the AudioStream, we need to capture and store a lot more data than in a short amount of time.
 
-An effect that creates a sense of space by producing a diffuse, long-lasting sound from a short input.
+To don't bog down the CPU, we use another peripheric : **The DMA**, to moove directly from the ADC to the Memory Buffer.
 
-"Reverberation consists of reflections that are delayed and attenuated copies of the direct sound. The frequency content of each reflection is also modified by the directivity of the sound source and by the material absorption of reflecting surfaces". (dafx/Basics of Room Acoustics/page 164)
+<img width="409" alt="CPUmanager" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/1380e625-ba8c-4a52-a5c6-a04985e5760c">
+<img width="402" alt="DMA" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/9df79011-302f-4634-b7d7-f35a8c30be52">
 
-"The most faithful reverberation method would be to convolve the input signal with such a response" (dafx/Convolution with room impulse responses/164).
+The DMA is working as a large pipe that funnels data from one peripheral to the other while the CPU goes off and does other things.
 
-The simulation of the long-term effects of sound propagation in enclosures is also the most important work in the field of artificial reverberation. 
-
-
-→ We search for the input signal to create : 
-- a convolution
-- a feedback delay loop (delay lines connected in a feedback loop by a matrix)
+First, let's display the DAC on the oscilloscop and then we will deduce how display the ADC.
 
 
 
-### 🎛️ Granular Delay
+In our microcontroller and in our audio codec we have special functions available in the STM32 HAL library.
+
+The SAI module (We use SAI2 "SAI A and SAI B" is used to control the audio sources. There are callback functions to copy received data or to stop the DMA ( SAI A : transmission and SAI B : reception).
+
+<img width="327" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c26be457-fb9c-453b-bc39-43dbe6c6f6b9">
+<img width="329" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4ae6f742-591e-4e41-876a-2ac6f6eacfff">
+
+## ADC/DAC
 
 
 ## 🔧 Which programming language ?
@@ -94,10 +100,25 @@ To write this first effect in C, we chose to implement a distortion.
 
 Based on the definition of a Max value and a clipping (see [Distortion Notice](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/Distorsion.md)) in relation to it, we can add this first effect to our work! ✅
 
+### 🎶 Reverberation
+
+**What do we want from a Reverb ?** 
+
+An effect that creates a sense of space by producing a diffuse, long-lasting sound from a short input.
+
+"Reverberation consists of reflections that are delayed and attenuated copies of the direct sound. The frequency content of each reflection is also modified by the directivity of the sound source and by the material absorption of reflecting surfaces". (dafx/Basics of Room Acoustics/page 164)
+
+"The most faithful reverberation method would be to convolve the input signal with such a response" (dafx/Convolution with room impulse responses/164).
+
+The simulation of the long-term effects of sound propagation in enclosures is also the most important work in the field of artificial reverberation. 
 
 
-### 🔊 A Simple Reverb
-#### 🔊 Faust
+→ We search for the input signal to create : 
+- a convolution
+- a feedback delay loop (delay lines connected in a feedback loop by a matrix)
+
+#### 🔊 A Simple Reverb
+##### 🔊 Faust
 How do you code in Faust? Go to https://faustide.grame.fr/
 
 Then enter the following lines and run
@@ -123,32 +144,16 @@ And compile to specific plateform binary code (Plateform : source ; Architecture
 
 **Download**🎁 → [simplereverb.c](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/simplereverbcodes/simplereverb)
 
+
+### 🎛️ Granular Delay
+
+
 #### 🖥️ C
 
-We start coding on STM32CubeIDE
-
-To Capture the AudioStream, we need to capture and store a lot more data than in a short amount of time.
-
-To don't bog down the CPU, we use another peripheric : **The DMA**, to moove directly from the ADC to the Memory Buffer.
-
-<img width="409" alt="CPUmanager" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/1380e625-ba8c-4a52-a5c6-a04985e5760c">
-<img width="402" alt="DMA" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/9df79011-302f-4634-b7d7-f35a8c30be52">
-
-The DMA is working as a large pipe that funnels data from one peripheral to the other while the CPU goes off and does other things.
-
-First, let's display the DAC on the oscilloscop and then we will deduce how display the ADC.
 
 
 
-In our microcontroller and in our audio codec we have special functions available in the STM32 HAL library.
-
-The SAI module (We use SAI2 "SAI A and SAI B" is used to control the audio sources. There are callback functions to copy received data or to stop the DMA ( SAI A : transmission and SAI B : reception).
-
-<img width="327" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c26be457-fb9c-453b-bc39-43dbe6c6f6b9">
-<img width="329" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4ae6f742-591e-4e41-876a-2ac6f6eacfff">
-
-
-We can test an effect implementation with a simple distorsion : 
+// We can test an effect implementation with a simple distorsion : 
 ```html
 // Distorsion effect
 void distorsion(int16_t*signal, int signalsize, float maxsignal){
