@@ -38,6 +38,7 @@ As the final result is not perfect, which is problematic for an audio input/outp
 
 <img width="587" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/69e50238-9cb8-4588-8ad5-2f18db25f20b">
 
+With the previous work, we obtain the following result (sinusoidal input): 
 
 
 ## 🔧 Which programming language ?
