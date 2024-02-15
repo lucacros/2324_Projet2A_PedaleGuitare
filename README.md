@@ -38,27 +38,6 @@ As the final result is not perfect, which is problematic for an audio input/outp
 
 <img width="587" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/69e50238-9cb8-4588-8ad5-2f18db25f20b">
 
-We start coding on STM32CubeIDE
-
-To Capture the AudioStream, we need to capture and store a lot more data than in a short amount of time.
-
-To don't bog down the CPU, we use another peripheric : **The DMA**, to moove directly from the ADC to the Memory Buffer.
-
-<img width="409" alt="CPUmanager" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/1380e625-ba8c-4a52-a5c6-a04985e5760c">
-<img width="402" alt="DMA" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/9df79011-302f-4634-b7d7-f35a8c30be52">
-
-The DMA is working as a large pipe that funnels data from one peripheral to the other while the CPU goes off and does other things.
-
-First, let's display the DAC on the oscilloscop and then we will deduce how display the ADC.
-
-
-
-In our microcontroller and in our audio codec we have special functions available in the STM32 HAL library.
-
-The SAI module (We use SAI2 "SAI A and SAI B" is used to control the audio sources. There are callback functions to copy received data or to stop the DMA ( SAI A : transmission and SAI B : reception).
-
-<img width="327" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c26be457-fb9c-453b-bc39-43dbe6c6f6b9">
-<img width="329" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4ae6f742-591e-4e41-876a-2ac6f6eacfff">
 
 
 ## 🔧 Which programming language ?
