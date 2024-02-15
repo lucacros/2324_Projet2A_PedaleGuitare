@@ -16,7 +16,10 @@ Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
 - [🔧 Which programming language ? ](#-which-programming-language-?)
   - 🔊 FAUST
 - [💻  Implementation](#-implementation)
-
+  - 🕡 Control of the Parameters
+  - 🔊 Volume Potentiometer
+  - 🤖 The First Effect : A Simple Distorsion
+  - 
 ## 🛠 Musical Effects
 
 Explaining how we built our effects, understanding the physics of signal modulation, modifications.
