@@ -30,7 +30,7 @@ Before applying an effect, we first need to recover our audio input and reset it
 
 <img width="650" src ="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/8dfb041b-aab6-437d-8f97-3a108bdba43d" />
 
-For more details (read this file : [adc-dac]())
+For more details (read this file : [adc-dac](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/adc-dac.md))
 
 As the final result is not perfect, which is problematic for an audio input/output, we will use the same principle with an Audio CODEC (which contains the ADC/DAC).
 
