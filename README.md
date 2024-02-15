@@ -11,7 +11,6 @@ Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
 
 # 📖 Table of contents
 - [🛠 Get audio Output/Input](#-get-audio-output/input)
-  - DMA 
   - ADC/DAC
   - CODEC
 - [🔧 Which programming language ? ](#-which-programming-language-?)
@@ -25,7 +24,19 @@ Music Effect Tree (dafx-digitalaudioeffects2ndedition page15)
     
 # 🛠 Get audio Output/Input
 
-## DMA
+## ADC/DAC
+
+Before applying an effect, we first need to recover our audio input and reset it to audio output. Here's the diagram:
+
+<img width="650" src ="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/8dfb041b-aab6-437d-8f97-3a108bdba43d" />
+
+For more details (read this file : [adc-dac]())
+
+As the final result is not perfect, which is problematic for an audio input/output, we will use the same principle with an Audio CODEC (which contains the ADC/DAC).
+
+## CODEC
+
+<img width="587" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/69e50238-9cb8-4588-8ad5-2f18db25f20b">
 
 We start coding on STM32CubeIDE
 
@@ -48,8 +59,6 @@ The SAI module (We use SAI2 "SAI A and SAI B" is used to control the audio sourc
 
 <img width="327" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/c26be457-fb9c-453b-bc39-43dbe6c6f6b9">
 <img width="329" alt="image" src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/4ae6f742-591e-4e41-876a-2ac6f6eacfff">
-
-## ADC/DAC
 
 
 ## 🔧 Which programming language ?
