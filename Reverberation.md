@@ -41,3 +41,8 @@ Then, click on this button to export the project in c  :
 And compile to specific plateform binary code (Plateform : source ; Architecture : cpp )
 
 **Download**🎁 → [simplereverb.cpp](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/simplereverbcodes/simplereverb)
+
+-----------------------------------------prise de note-------------
+
+<img width="273" alt="image" 
+    src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/assets/136320490/8406a9b1-87f4-4a68-ba15-b875964c6406">
