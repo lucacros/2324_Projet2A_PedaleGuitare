@@ -161,3 +161,5 @@ Nous avons donc procédé à de nombreux réglages comme l'ajustement de la posi
 ## 27/02
 
 Plusiuers réglage ont été fait sur le modèle 3D de la pédale notament l'élargissement des troues pour être sur que les potentiomètre ainsi que les jacks rentre correctement dans le boitier.
+
+Début de la création d'un effet de delay sur Faust. 
