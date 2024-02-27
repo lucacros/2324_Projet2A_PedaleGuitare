@@ -147,3 +147,17 @@ Début de la conception de la boite qui va acceuillir le PCB de la pédale.
 
 Amélioration du design de la boite. Le système de tiroir pour venir fermé la boite n'est pas assez adapté.
 
+## Session 15
+## 30/01
+
+Modélisation du nouveau système de fermeture. Ce système est un couvercle venant se fixer en dessous de la pédale grâce à des vis.
+
+## Session 16
+## 6/02
+Après une première impression nous nous sommes rendu compte de plusiuers problème de conception, notamenet sur le fait que les 2 parties ne s'emboitaient pas correctement. 
+Nous avons donc procédé à de nombreux réglages comme l'ajustement de la positions des troues pour les prises Jack, un troue pour l'alimentation, réglé la hauteurs des supports de vis pour qu'ils viennent parfaitement à la hauteur du couvercle et agrandir la surface de la pédale pour evité d'appuyer sur plusieurs boutons en même temps avec le pied quand on souhaite activer le footswitch.
+
+## Session 17
+## 27/02
+
+Plusiuers réglage ont été fait sur le modèle 3D de la pédale notament l'élargissement des troues pour être sur que les potentiomètre ainsi que les jacks rentre correctement dans le boitier.
