@@ -95,6 +95,8 @@ Based on the definition of a Max value and a clipping (see [Distortion Notice](h
 
 Before working with Faust, you need to convert your input signal (whose values are beetween -+20000) to a signal in +-1 Values. And after that reconvert it !
 
+I write a [Conversion Notice](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Software-Section/Conversion.md)
+
 ### 🎶 Reverberation
 
 Reverberation is a complex effect that requires the use of the Faust language.
