@@ -1,0 +1,11 @@
+"Source:","C:\Users\Camille\Downloads\Electronic Board\footswitch\footswitch.kicad_sch"
+"Date:","04/02/2024 23:53:16"
+"Tool:","Eeschema (7.0.0)"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","2"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","1","J1","Conn_01x03","Connector_Generic:Conn_01x03","Connector_JST:JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","~","",""
+"2","1","SW1","SW_SPDT","Switch:SW_SPDT","Library:RS_Pro_SPDT_8466720","~","",""
