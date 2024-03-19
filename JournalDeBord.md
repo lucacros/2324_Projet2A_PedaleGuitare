@@ -163,3 +163,14 @@ Nous avons donc procédé à de nombreux réglages comme l'ajustement de la posi
 Plusiuers réglage ont été fait sur le modèle 3D de la pédale notament l'élargissement des troues pour être sur que les potentiomètre ainsi que les jacks rentre correctement dans le boitier.
 
 Début de la création d'un effet de delay sur Faust. 
+
+## Session 18
+## 05/03
+
+Nous avons fait une présentation sur notre avancé. 
+La boite était mal calibrer à cause d'une erreur de cotation qui a été vite résolue.
+
+## Session 19
+## 12/03
+Nous nous sommes penché sur les différents effets que nous pouvions réaliser pour faire un maximum d'effet avant la fin du projet.
+Nous avons commencé un effet de Chorus ainsi qu'un effet d'overdrive.
