@@ -3200,9 +3200,17 @@
     (uuid ff59753f-4a5a-4469-82dd-0f827c67c095)
   )
 
+  (text "connectors for footswitchs" (at 177.8 167.64 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 19838eb8-f503-4748-9b94-f6f1ab1464ea)
+  )
   (text "ST Connector\n\n\n" (at 186.69 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 52243706-ed9c-46a9-bc34-761b2c9ed04b)
+  )
+  (text " for UART\n" (at 64.77 242.57 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid de54ff3b-4a81-4f14-b3bf-8cacde17f0c8)
   )
 
   (label "D14" (at 134.62 222.25 0) (fields_autoplaced)
