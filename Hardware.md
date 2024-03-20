@@ -5,14 +5,6 @@ Enjoy your reading ! (Camille L)
 ## 📖 Table of contents
 1. [List of components](#list-of-components)
 2. [Hardware Specifications](#hardware-specifications)
-    1. [Block Diagram](#block-diagram)
-    2. [Power Supply](#power-supply)
-    3. [Audio Codec ](#audio-codec)
-    4. [RAM ](#ram)
-    5. [MicroProcessor](#microprocessor)
-    6. [Connectors](#connectors)
-        - [Jack connecting](#Jack-connecting)
-    7. [Buffer-Button](#Buffer-Button)
 3. [Installation](#installation)
 
 
@@ -24,30 +16,11 @@ For more details on each component, refer to [Hardware Specifications](#hardware
 
 # Hardware Specifications
 ## Block Diagram
-<p align="center"><img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/BLOCK%20SYSTEM.drawio.png" width="600" /> </p>
-
-**<p align="center">Diagram system overview</p>**
-- A.F.E = Analog Front End : Preamplifier-Noise attenuation
-- A.R.E = Analog Rear End : Amplifier-Noise attenuation
-
-We use AFE to adapt the voltage to the Codec = 2.83Vpp for a supply voltage of 3.3V. To find out if you need to fit an AFE, you need to measure the signal from your guitar.
-
-We have measured the maximum voltage output of a guitar to check if you need an AFE or not.
-
-<p align="center">
-  <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/att.ZSk6oNu2TNIRMZUWemjoR3e5RhZ518ov_QuzrdiQLX0.jpg" width="400" />
-</p>
-
-
-**<p align="center"> Guitar signal </p>**
-
-As you can see, the guitar signal is within the value range of the codec and is important enough not to use AFE and ARE.
 
 <p align="center">
   <img src="https://github.com/lucacros/2324_Projet2A_PedaleGuitare/blob/Hardware-Section/img/Bloc%20symtem%20optimized.png" alt="Block Diagram Optimized" width="500" />
 </p>
 
-The block diagram can be simplified.
 Once the block diagram has been constructed, we can adapt it to the components used:
 
 <p align="center">
@@ -55,9 +28,8 @@ Once the block diagram has been constructed, we can adapt it to the components u
 </p>
 
 
-
 ## Power supply
-The power dissipated in the electronic component used in switching mode is lower than when used in linear mode.
+The power dissipated in the electronic component used in switching mode is lower than when used in linear mode. They are 2 types of power for this pedal. Power of digital components and for analog components. That's why we have, the objective is to obtain the cleanest power source for our analog components such as : DAC and ADC. 
     
 |   Components   |   Voltages |  
 |---    |:-:    |    
