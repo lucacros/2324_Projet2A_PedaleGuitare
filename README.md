@@ -6,7 +6,6 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Présentation](#-présentation)
   - [📅 Management Section](#-management-section)
-
   - [🛠️ Hardware Section]()
   - [💻 Software Section]()
 - [🚀 Contributions](#-contributions)
@@ -22,6 +21,7 @@ The second is the creation of the various digital audio effects.
 ### 📅 Management Section
 
 In this section, you'll find everything to do with project management.
+
 [Link to Management.md](Management.md)
 
 
