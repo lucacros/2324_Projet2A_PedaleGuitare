@@ -15,24 +15,12 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 Our multi-effects guitar pedal project aims to provide a versatile platform for guitarists, bringing together a variety of sound effects and audio processing tools in a single device. To achieve this, the guitar pedal will feature...
 
-(Le contenu de la section Présentation)
-### 🎶 E-Sound effects
-
-- Effect 1 : **Reverberation** "An effect which creates a sense of space, by generating a diffuse longer-lasting sound from a short-input."
-- Effect 2 : Description brève
-- ...
-
-
-## 📁 Branches structure
-
 The project is divided into 3 parts: the first one is the project management, the second part is analog part, with the creation of the system's electronic board, and the third is the creation of the various digital audio effects. 
 The second is the creation of the various digital audio effects.
 
 ### 📅 Management Section
 
 In this section, you'll find everything to do with project management.
-
-[Link to Project Management Section](https://github.com/lucacros/2324_Projet2A_PedaleGuitare/tree/Project-Management)
 
 ### 🛠️ Hardware Section
 
