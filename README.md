@@ -43,7 +43,6 @@ We would like to thank each person who helped us and provided support and inform
 - M. Nicolas PAPAZOGLOU
 - M. Laurent FIACK
 - M. Frédéric GERALDO
-- but most importantly: M. Camille LANFREDI, who is the best team mate on Earth and manager.
 
 ## 📜 Licence
 
