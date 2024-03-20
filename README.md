@@ -21,6 +21,8 @@ The second is the creation of the various digital audio effects.
 ### 📅 Management Section
 
 In this section, you'll find everything to do with project management.
+[Link to Management.md](Management.md)
+
 
 ### 🛠️ Hardware Section
 
