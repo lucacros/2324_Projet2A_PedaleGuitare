@@ -6,7 +6,7 @@ Hello music and technology fans! Welcome to the GitHub showcase for our multi-ef
 
 - [📌 Présentation](#-présentation)
   - [📅 Management Section](#-management-section)
-  - [🛠️ Hardware Section](#-hardware-section)
+  - [🛠️ Hardware Section](%EF%B8%8F-hardware-section)
   - [💻 Software Section](#-software-section)
 - [🚀 Contributions](#-contributions)
 - [📜 Licence](#-licence)
