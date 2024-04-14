@@ -173,4 +173,9 @@ La boite était mal calibrer à cause d'une erreur de cotation qui a été vite 
 ## Session 19
 ## 12/03
 Nous nous sommes penché sur les différents effets que nous pouvions réaliser pour faire un maximum d'effet avant la fin du projet.
-Nous avons commencé un effet de Chorus ainsi qu'un effet d'overdrive.
+Nous avons commencé un effet de Chorus, de reverb ainsi qu'un effet d'overdrive.
+
+## Session 20
+## 19/03
+Nous avons continué la conception des effets numérique sur la pédale mais nous nous sommes confronté à plusieurs problèmes. Le premier concerne l'effet de reverb codé via Faust. cet effet était prenait trop de place sur le microprocesseur ce qui nous a empêché de le testé et de vérifier si l'effet fonctionnait correctement ou non. 
+De plus, nous n'avons pas réussis à faire correctement un effet de Chorus car il y avait des problèmes avec la gestion du buffer dans le code en C. En effet, quand nous testions sur un ordinateur l'effet, il y avait des coupure dans l'audio de sortie.
