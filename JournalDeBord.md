@@ -146,61 +146,61 @@ Continued rooting of the PCB.
 We update update the Github to have all our work up to date on the Github.
 
 ## Session 13
-## 16/01
+### 16/01
 
 Meeting to review achievements and objectives for the 2nd semester.
 -  Redesign and adjustment of the PCB.
 -  Start of the design of the box that will house the PCB.
 
 ## Session 14
-## 23/01
+### 23/01
 
 Improving the design of the box: The drawer system used to close the box wasn't adapted enough. 
 So we decided to make the box in two parts that screw together to close the box.
 
 ## Session 15
-## 30/01
+### 30/01
 
 Modelling of the new locking system. 
 This system consists of a cover that is fixed to the underside of the pedal using screws.
 
 ## Session 16
-## 6/02
+### 6/02
 After a first impression we realised that there were a number of design problems, including the fact that the 2 parts didn't fit together properly. 
 So we made a number of adjustments, such as adjusting the position of the holes for the jacks, a hole for the power supply, adjusting the height of the screw supports so that they were perfectly level with the lid and enlarging the surface area of the footswitch to avoid having to press several buttons at the same time with your foot when you wanted to activate the footswitch.
 
 ## Session 17
-## 27/02
+### 27/02
 
 A number of adjustments have been made to the 3D model of the pedal, including enlarging the holes to ensure that the potentiometers and jacks fit properly into the case.
 
 Starting to create a delay effect on Faust. 
 
 ## Session 18
-## 05/03
+### 05/03
 
 We gave a presentation on our progress. 
 The box was incorrectly calibrated due to a dimensioning error, which was quickly resolved.
 
 ## Session 19
-## 12/03
+### 12/03
 We looked at the different effects we could create to get the maximum effect before the end of the project.
 We started the creation of a chorus effect, a reverb effect and an overdrive effect.
 
 ## Session 20
-## 19/03
+### 19/03
 
 We continued to develop the digital effects on the pedal, but encountered several problems. The first was the Faust encoded reverb effect. This effect took up too much space on the microprocessor, which prevented us from testing it and checking that it was working properly. 
 We also couldn't create a chorus effect correctly because of problems with buffer management in the C code. In fact, when we tested the effect on a computer, there were cuts in the output audio.
 
 ## Session 21
-## 26/03
+### 26/03
 
 Placement of all 3D prints on the PCB.
 Testing the distortion effects.
 We couldn't find a solution for the Chorus effect to work properly.
 
 ## Session 22
-## 02/04
+### 02/04
 
 Final presentation of our project and demonstration of the various distortion effects on an electric guitar.
