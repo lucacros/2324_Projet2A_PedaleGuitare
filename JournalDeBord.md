@@ -146,44 +146,54 @@ We update update the Github to have all our work up to date on the Github.
 ## Session 13
 ## 16/01
 
-Réunion pour faire un point des réalisations et des objectifs à atteindre lors du 2ème semestre.
-Remaniement et ajustement du pcb.
-Début de la conception de la boite qui va acceuillir le PCB de la pédale.
+Meeting to review achievements and objectives for the 2nd semester.
+-  Redesign and adjustment of the PCB.
+-  Start of the design of the box that will house the PCB.
 
 ## Session 14
 ## 23/01
 
-Amélioration du design de la boite. Le système de tiroir pour venir fermé la boite n'est pas assez adapté.
+Improving the design of the box: The drawer system used to close the box wasn't adapted enough. 
+So we decided to make the box in two parts that screw together to close the box.
 
 ## Session 15
 ## 30/01
 
-Modélisation du nouveau système de fermeture. Ce système est un couvercle venant se fixer en dessous de la pédale grâce à des vis.
+Modelling of the new locking system. 
+This system consists of a cover that is fixed to the underside of the pedal using screws.
 
 ## Session 16
 ## 6/02
-Après une première impression nous nous sommes rendu compte de plusiuers problème de conception, notamenet sur le fait que les 2 parties ne s'emboitaient pas correctement. 
-Nous avons donc procédé à de nombreux réglages comme l'ajustement de la positions des troues pour les prises Jack, un troue pour l'alimentation, réglé la hauteurs des supports de vis pour qu'ils viennent parfaitement à la hauteur du couvercle et agrandir la surface de la pédale pour evité d'appuyer sur plusieurs boutons en même temps avec le pied quand on souhaite activer le footswitch.
+After a first impression we realised that there were a number of design problems, including the fact that the 2 parts didn't fit together properly. 
+So we made a number of adjustments, such as adjusting the position of the holes for the jacks, a hole for the power supply, adjusting the height of the screw supports so that they were perfectly level with the lid and enlarging the surface area of the footswitch to avoid having to press several buttons at the same time with your foot when you wanted to activate the footswitch.
 
 ## Session 17
 ## 27/02
 
-Plusiuers réglage ont été fait sur le modèle 3D de la pédale notament l'élargissement des troues pour être sur que les potentiomètre ainsi que les jacks rentre correctement dans le boitier.
+A number of adjustments have been made to the 3D model of the pedal, including enlarging the holes to ensure that the potentiometers and jacks fit properly into the case.
 
-Début de la création d'un effet de delay sur Faust. 
+Starting to create a delay effect on Faust. 
 
 ## Session 18
 ## 05/03
 
-Nous avons fait une présentation sur notre avancé. 
-La boite était mal calibrer à cause d'une erreur de cotation qui a été vite résolue.
+We gave a presentation on our progress. 
+The box was incorrectly calibrated due to a dimensioning error, which was quickly resolved.
 
 ## Session 19
 ## 12/03
-Nous nous sommes penché sur les différents effets que nous pouvions réaliser pour faire un maximum d'effet avant la fin du projet.
-Nous avons commencé un effet de Chorus, de reverb ainsi qu'un effet d'overdrive.
+We looked at the different effects we could create to get the maximum effect before the end of the project.
+We started the creation of a chorus effect, a reverb effect and an overdrive effect.
 
 ## Session 20
 ## 19/03
-Nous avons continué la conception des effets numérique sur la pédale mais nous nous sommes confronté à plusieurs problèmes. Le premier concerne l'effet de reverb codé via Faust. cet effet était prenait trop de place sur le microprocesseur ce qui nous a empêché de le testé et de vérifier si l'effet fonctionnait correctement ou non. 
-De plus, nous n'avons pas réussis à faire correctement un effet de Chorus car il y avait des problèmes avec la gestion du buffer dans le code en C. En effet, quand nous testions sur un ordinateur l'effet, il y avait des coupure dans l'audio de sortie.
+
+We continued to develop the digital effects on the pedal, but encountered several problems. The first was the Faust encoded reverb effect. This effect took up too much space on the microprocessor, which prevented us from testing it and checking that it was working properly. 
+We also couldn't create a chorus effect correctly because of problems with buffer management in the C code. In fact, when we tested the effect on a computer, there were cuts in the output audio.
+
+## Session 21
+## 26/03
+
+Placement of all 3D prints on the PCB.
+Testing the distortion effects.
+We couldn't find a solution for the Chorus effect to work properly.
