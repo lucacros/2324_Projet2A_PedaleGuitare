@@ -23,6 +23,7 @@
 - [Session 18](#session-18)
 - [Session 19](#session-19)
 - [Session 20](#session-20)
+- [Session 21](#session-21)
 
 
 
@@ -197,3 +198,8 @@ We also couldn't create a chorus effect correctly because of problems with buffe
 Placement of all 3D prints on the PCB.
 Testing the distortion effects.
 We couldn't find a solution for the Chorus effect to work properly.
+
+## Session 22
+## 02/04
+
+Final presentation of our project and demonstration of the various distortion effects on an electric guitar.
