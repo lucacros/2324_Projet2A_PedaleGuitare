@@ -32,12 +32,12 @@ In this section you will find everything relating to the hardware part of the pr
 [Link to Hardware.md](Hardware.md)
 
 They are 2 versions of the pcb :
+| V | Recto | Verso  |
+|---|------|-------|
+| V1.0| <p align="center"><img src="Hardware/img/V1Recto.jpg" width="300" /> </p> | <p align="center"><img src="Hardware/img/V1Verso.jpg" width="300" /> </p>|
+| V2.0| <p align="center"><img src="Hardware/img/V2Recto.jpg" width="300" /> </p> | <p align="center"><img src="Hardware/img/V2Verso.jpg" width="300" /> </p>| 
 
-V1.0 :
-Hardware/img/V1Recto.jpg
-As you can see, it isn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version.
-
-V2.0 :
+As you can see, the first version isn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version witch to x2 smaller.
 
 ### 💻 Software Section
 
