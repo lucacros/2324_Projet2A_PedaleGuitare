@@ -27,9 +27,10 @@ In this section, you'll find everything to do with project management.
 
 ### 🛠️ Hardware Section
 
-In this section you will find everything relating to the hardware part of the project. Whether it's the hardware, the electrical diagrams and routing, how they work and the types of initialisation and interconnection.
+<p align="center"><img src="Hardware/img/Bloc symtem optimized.png" width="300" /> </p> 
+<p align="center"><img src="Hardware/img/ComponentDiagram" width="300" /> </p> 
 
-[Link to Hardware.md](Hardware.md)
+
 
 They are 2 versions of the pcb :
 | V | Recto | Verso  |
