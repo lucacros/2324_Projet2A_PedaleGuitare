@@ -27,8 +27,8 @@ In this section, you'll find everything to do with project management.
 
 ### 🛠️ Hardware Section
 
-<p align="center"><img src="Hardware/img/Bloc symtem optimized.png" width="400" /> </p> 
-<p align="center"><img src="Hardware/img/ComponentDiagram.png" width="400" /> </p> 
+<p align="center"><img src="Hardware/img/Bloc symtem optimized.png" width="600" /> </p> 
+<p align="center"><img src="Hardware/img/ComponentDiagram.png" width="600" /></p> 
 
 
 
