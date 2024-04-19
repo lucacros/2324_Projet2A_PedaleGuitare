@@ -48,7 +48,7 @@ When we connect a jack to this connector, the pins SN and TN are disconnected fr
 We use a buffer button to store a part of the sound of the guitar to apply several effects to it. It's one of the several options that offer the granular effect.
 When the button is pressed, a signal is sent to the microprocessor. When it receives the signal, the microprocessor stores in the RAM the song it has received for a short time and continuously plays the part stored in the RAM.
 #### Potentiometers
-We use several potentiometer for all the settings of our effects, the gain, the shape, the reverb ect... All potentiometers are fitted with capacitors to eliminate unwanted noise and high frequencies.
+We use several potentiometers for all the settings of our effects, the gain, the shape, the reverb ect... All potentiometers are fitted with capacitors to eliminate unwanted noise and high frequencies.
 
 
 
