@@ -37,7 +37,7 @@ They are 2 versions of the pcb :
 | V1.0| <p align="center"><img src="Hardware/img/V1Recto.jpg" width="300" /> </p> | <p align="center"><img src="Hardware/img/V1Verso.jpg" width="300" /> </p>|
 | V2.0| <p align="center"><img src="Hardware/img/V2Recto.jpg" width="300" /> </p> | <p align="center"><img src="Hardware/img/V2Verso.jpg" width="300" /> </p>| 
 
-As you can see, the first version isn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version witch to x2 smaller.
+As you can see, the first version wasn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version witch to x2 smaller.
 
 ### 💻 Software Section
 
