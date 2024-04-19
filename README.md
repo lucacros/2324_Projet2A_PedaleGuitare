@@ -34,7 +34,7 @@ In this section you will find everything relating to the hardware part of the pr
 They are 2 versions of the pcb :
 
 V1.0 :
-
+Hardware/img/V1Recto.jpg
 As you can see, it isn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version.
 
 V2.0 :
