@@ -30,7 +30,16 @@ In this section, you'll find everything to do with project management.
 <p align="center"><img src="Hardware/img/Bloc symtem optimized.png" width="600" /> </p> 
 <p align="center"><img src="Hardware/img/ComponentDiagram.png" width="600" /></p> 
 
+#### Power supply
+To obtain these voltage levels, we use several voltage regulators. The first regulator is a switching regulator to go from 12V to 5V and then we use 2 linear regulators to obtain 3.3V and 1.8V. We first use a switching regulator to go from 12V to 5V, because switching regulators are more efficient than linear regulators when the voltage difference between input and output is high. We use linear regulators because they give a very clean output, with a minimum of noise.
 
+We need to supply 2 different voltages: the first +3.3V to supply VDDA (for analogue part) and VDDIO (for Inputs/Outputs) and the second +1.8V to supply VDDD (for digital part).
+
+|   Components   |   Voltages |  Description |
+|---    |:-:    |:-    | 
+|   VDDIO   |   +3.3V   | Power supply controls the digital I/O levels as well as the output level of LINE outputs. | 
+| VDDD   |   +1.8V  | power supply controls the digital I/O levels as well as the output level of LINE outputs   |
+|  VDDA  |   +3.3VA   | Power supply is used for the internal analog circuitry including ADC, DAC, LINE inputs, MIC inputs, headphone outputs and reference voltages.|
 
 They are 2 versions of the pcb :
 | V | Recto | Verso  |
