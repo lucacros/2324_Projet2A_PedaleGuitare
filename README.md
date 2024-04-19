@@ -41,6 +41,20 @@ We need to supply 2 different voltages: the first +3.3V to supply VDDA (for anal
 | VDDD   |   +1.8V  | power supply controls the digital I/O levels as well as the output level of LINE outputs   |
 |  VDDA  |   +3.3VA   | Power supply is used for the internal analog circuitry including ADC, DAC, LINE inputs, MIC inputs, headphone outputs and reference voltages.|
 
+#### Jack connecting
+We use Jack switched for the input and the output of the guitar. The switched Jack allow us to have the choice between a mono-input or a stereo input and a mono-output and a stereo-output. 
+When we connect a jack to this connector, the pins SN and TN are disconnected from the pins S and T. It can allow to have 2 connectors to have stereo but still use the 2 input of the codec to have a signal as powerful as a stereo input.
+#### Buffer-Button
+We use a buffer button to store a part of the sound of the guitar to apply several effects to it. It's one of the several options that offer the granular effect.
+When the button is pressed, a signal is sent to the microprocessor. When it receives the signal, the microprocessor stores in the RAM the song it has received for a short time and continuously plays the part stored in the RAM.
+#### Potentiometers
+We use several potentiometer for all the settings of our effects, the gain, the shape, the reverb ect... All potentiometers are fitted with capacitors to eliminate unwanted noise and high frequencies.
+
+
+
+
+
+
 They are 2 versions of the pcb :
 | V | Recto | Verso  |
 |---|------|-------|
