@@ -30,6 +30,7 @@ In this section, you'll find everything to do with project management.
 In this section you will find everything relating to the hardware part of the project. Whether it's the hardware, the electrical diagrams and routing, how they work and the types of initialisation and interconnection.
 
 [Link to Hardware.md](Hardware.md)
+
 They are 2 versions of the pcb :
 V1.0 :
 
