@@ -18,19 +18,19 @@ Our multi-effects guitar pedal project aims to provide a versatile platform for 
 The project is divided into 3 parts: the first one is the project management, the second part is analog part, with the creation of the system's electronic board, and the third is the creation of the various digital audio effects. 
 The second is the creation of the various digital audio effects.
 
-### 📅 Management Section
+## 📅 Management Section
 
 In this section, you'll find everything to do with project management.
 
 [Link to Management.md](Management.md)
 
 
-### 🛠️ Hardware Section
+## 🛠️ Hardware Section
 
 <p align="center"><img src="Hardware/img/Bloc symtem optimized.png" width="600" /> </p> 
 <p align="center"><img src="Hardware/img/ComponentDiagram.png" width="600" /></p> 
 
-#### Power supply
+### Power supply
 To obtain these voltage levels, we use several voltage regulators. The first regulator is a switching regulator to go from 12V to 5V and then we use 2 linear regulators to obtain 3.3V and 1.8V. We first use a switching regulator to go from 12V to 5V, because switching regulators are more efficient than linear regulators when the voltage difference between input and output is high. We use linear regulators because they give a very clean output, with a minimum of noise.
 
 We need to supply 2 different voltages: the first +3.3V to supply VDDA (for analogue part) and VDDIO (for Inputs/Outputs) and the second +1.8V to supply VDDD (for digital part).
@@ -49,7 +49,7 @@ They are 2 versions of the pcb :
 
 As you can see, the first version wasn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version witch to x2 smaller.
 
-### 💻 Software Section
+## 💻 Software Section
 
 In this second part you will find everything that concerns the software part of the project. You'll find all the detailed audio effects programs and how they work.
 
