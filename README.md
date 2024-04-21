@@ -60,7 +60,7 @@ They are 2 versions of the pcb :
 |---|------|-------|-----|
 | V1.0| <p align="center"><img src="Hardware/img/V1Recto.jpg" width="300" /> </p> | <p align="center"><img src="Hardware/img/V1Verso.jpg" width="300" /> </p>| 17 x 10.32 cm |
 | V2.0| <p align="center"><img src="Hardware/img/V2Recto.jpg" width="300" /> </p> | <p align="center"><img src="Hardware/img/V2Verso.jpg" width="300" /> </p>| 10.4 x 9.15 cm |
-| V3.0| wip  | wip| 9.71 x 6.76 cm |
+| V3.0| <p align="center"><img src="Hardware/img/V3Recto.png" width="300" /> </p>**WIP**  | <p align="center"><img src="Hardware/img/V3Verso.png" width="300"  /> </p>**WIP**| 9.71 x 6.76 cm |
 
 As you can see, the first version wasn't optimised. They is a lot of space between components and the design is not very good. That's why we did a new version witch to x2 smaller.
 
