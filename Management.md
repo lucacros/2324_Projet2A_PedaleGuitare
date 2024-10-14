@@ -39,7 +39,7 @@
 - **FC4** : Environmentally friendly ( Respectful material, Low consuption).
 
 # Organisation du groupe 
-- Méthodes Scrum
+- Agile Method
 - EXCEL : GANTT
 
 To better organize our project, we have drawn up a task breakdown with each associated deliverable. This diagram is an integration of the WBS, OBS, and PBS charts.
